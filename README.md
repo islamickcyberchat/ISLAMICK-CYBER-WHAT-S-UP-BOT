@@ -7,7 +7,7 @@
 ----------
 ## CLICK <a href="https://github.com/mrfrank-ofc/SUBZERO-MD/issues/2#issue-2744137419">HERE IF YOU ARE NEW TO BOTS</a>
 
-<img src='[https://i.postimg.cc/rwXsg7Yt/ultra.jpg]'/>
+!<img src='[https://i.postimg.cc/rwXsg7Yt/ultra.jpg]'/>
 
 -------
 
