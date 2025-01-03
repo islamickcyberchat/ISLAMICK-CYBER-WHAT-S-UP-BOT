@@ -1,7 +1,7 @@
-name: subzeromd
+name: cyberrajib
 
 services:
-  - name: subzero-md-service
+  - name: cyber-rajib-service
     type: web
     ports:
       - 3000
