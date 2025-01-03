@@ -44,7 +44,7 @@ module.exports = {
     AUTO_REACT: process.env.AUTO_REACT || "false",
     HEART_REACT: process.env.HEART_REACT || "false",
     OWNER_REACT: process.env.OWNER_REACT || "false",
-    BOT_NAME: process.env.BOT_NAME || "『 𝐒𝐔𝐁𝐙𝐄𝐑𝐎 𝐌𝐃 』",
+    BOT_NAME: process.env.BOT_NAME || "『 𝐒𝐔𝐁𝐙𝐄𝐑𝐎 𝐃 』",
     AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "true",
     AUTO_STATUS__MSG: process.env.AUTO_STATUS__MSG || "`Status Seen By SubZero Bot 🦄 `",
     OMDB_API_KEY: process.env.OMDB_API_KEY || "76cb7f39", // omdbapi.com
