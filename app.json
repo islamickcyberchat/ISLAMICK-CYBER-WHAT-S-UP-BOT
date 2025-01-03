@@ -1,9 +1,9 @@
 {
-  "name": "❄️ SUBZERO MD ❄️",
-  "description": "ICY COLD W.A BOT BY MR FRANJ",
-  "logo": "https://i.postimg.cc/m2jtqrBC/Screenshot-20241216-090753-Video-Maker.jpg",
+  "name": "🤍✨𝐂 𝐘 𝐁 𝐄 𝐑-𝐑 𝐀 𝐉 𝐈 𝐁✨🤍",
+  "description": "ICY COLD W.A BOT BY CYBER RAJIB",
+  "logo": "https://i.postimg.cc/rwXsg7Yt/ultra.jpg",
   "keywords": ["bot"],
-  "success_url": "https://github.com/mrfrank-ofc/SUBZERO-MD",
+  "success_url": "https://github.com/cyberrajib999/working",
 
     "stack": "container",
   "env": {
@@ -16,13 +16,13 @@
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": true,
-      "value": "https://i.postimg.cc/m2jtqrBC/Screenshot-20241216-090753-Video-Maker.jpg"
+      "value": "https://i.postimg.cc/rwXsg7Yt/ultra.jpg"
     }, 
     
     "ALIVE_MSG": {
       "description": "paste your alive message hear.",
       "required": true,
-      "value": "sᴜʙᴢᴇʀᴏ ᴍᴅ ɪs ᴀʟɪᴠᴇ ♻🔗\n\n© ᴍᴀᴅᴇ ʙʏ ᴍʀ ғʀᴀɴᴋ ᴏғᴄ"
+      "value": "🤍✨𝐂 𝐘 𝐁 𝐄 𝐑-𝐑 𝐀 𝐉 𝐈 𝐁✨🤍\nɪs ᴀʟɪᴠᴇ "
     },
     
     "PREFIX": {
@@ -119,7 +119,7 @@
     "BOT_NAME": {
       "description": "write bot your name.",
       "required": true,
-      "value": "sᴜʙᴢᴇʀᴏ ᴍᴅ"
+      "value":"🤍✨𝐂 𝐘 𝐁 𝐄 𝐑-𝐑 𝐀 𝐉 𝐈 𝐁✨🤍"
     }, 
 
     "HEART_REACT": {
@@ -136,12 +136,12 @@
     "CAPTION": {
       "description": "enter your caption if you want to show on menu.",
       "required": true,
-      "value": "*ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ sᴜʙᴢᴇʀᴏ ᴍᴅ*"
+      "value": "*🤍✨𝐂 𝐘 𝐁 𝐄 𝐑-𝐑 𝐀 𝐉 𝐈 𝐁✨🤍*"
     }, 
     "AUTO_STATUS__MSG": {
       "description": "enter your caption if you want to show on status reply.",
       "required": true,
-      "value": "Status Seen By SubZero"
+      "value": "Status Seen By CYBER-RAJIB"
     }
 
 
