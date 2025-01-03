@@ -46,7 +46,7 @@ async (conn, mek, m, { from, quoted, args, reply }) => {
                          `📅 *Release Date* : ${release_date}\n` +
                          `💿 *Album* : ${album}\n` +
                          `🎶 *Genre* : ${genre}\n\n` +
-                         `🎧 *SUBZERO MD DOWNLOADING*...`
+                         `🎧 *CYBER-RAJIB DOWNLOADING*...`
             }, { quoted: mek });
 
             // Send the audio file
