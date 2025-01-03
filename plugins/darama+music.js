@@ -1,19 +1,8 @@
 /*╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺
-    ⭐ＰＲＯＪＥＣＴ ＮＡＭＥ:
-    ＳＵＢＺＥＲＯ ＷＨＡＴＳＡＰＰ ＭＤ ＢＯＴ
-    
-    ⭐ＤＥＶＥＬＯＰＥＲ
-     ＭＲ ＦＲＡＮＫ 
-     
-    ⭐ ＭＹ ＴＥＡＭ
-     ＸＥＲＯ ＣＯＤＥＲＳ
-     
-    ⭐ ＯＵＲ ＷＥＢＳＩＴＥ
-     https://github.com/ZwSyntax/SUBZERO-MD
+    ＰＲＯＪＥＣＴ ＮＡＭＥ:
 
-© ＴＲＹ ＤＥＣＲＹＰＴＩＮＧ ＩＦ ＹＯＵ ＣＡＮ⚠
-
-╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺*/
+ 🤍✨𝐂 𝐘 𝐁 𝐄 𝐑-𝐑 𝐀 𝐉 𝐈 𝐁✨🤍
+╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺*/ 
 
 
 
@@ -39,25 +28,19 @@ const data = search.videos[0];
 const url = data.url
     
     
-let desc = `━━━━━━━━━━━━━━━━━━━━━━
-*❄️ ＳＵＢＺＥＲＯ - ＭＤ ❄️*
-━━━━━━━━━━━━━━━━━━━━━━
+let desc = `⋆✦⋆⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⋆✦⋆
+ 🤍✨𝐂 𝐘 𝐁 𝐄 𝐑-𝐑 𝐀 𝐉 𝐈 𝐁✨🤍
+⋆✦⋆⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⋆✦⋆
 
-> *sᴜʙᴢᴇʀᴏ ᴍᴅ sᴏɴɢ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ*
+>     🎶 ｢ sᴏɴɢ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ ｣🎶
 
-➥ *Title:* ${data.title} 
-➥ *Duration:* ${data.timestamp} 
-➥ *Views:* ${data.views} 
-➥ *Uploaded On:* ${data.ago} 
-➥ *Link:* ${data.url} 
+—»✨ ｢Title｣: ${data.title} 
+—»✨ ｢Duration｣: ${data.timestamp} 
+—»✨ ｢Views｣: ${data.views} 
+—»✨ ｢Uploaded On｣: ${data.ago} 
+—»✨ ｢Link｣: ${data.url} 
 
-━━━━━━━━━━━━━━━━━━━━━━
-*ᴏɪʀ ᴄʜᴀɴɴᴇʟ*
-https://whatsapp.com/channel/0029VagQEmB002T7MWo3Sj1D
-
- 
-
-> *© sᴜʙᴢᴇʀᴏ ᴍᴅ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ* 
+━━━━━━━━━━━━━━━━━━━━━━ 
 `
 
 await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek});
@@ -69,7 +52,7 @@ let downloadUrl = down.dl_url
 
 //send audio message
 await conn.sendMessage(from,{audio: {url:downloadUrl},mimetype:"audio/mpeg"},{quoted:mek})
-await conn.sendMessage(from,{document: {url:downloadUrl},mimetype:"audio/mpeg",fileName:data.title + ".mp3",caption:"*© Gᴇɴᴇʀᴀᴛᴇᴅ 4 Yᴏᴜ Bʏ Sᴜʙᴢᴇʀᴏ❤️🌟*"},{quoted:mek})
+await conn.sendMessage(from,{document: {url:downloadUrl},mimetype:"audio/mpeg",fileName:data.title + ".mp3",caption:"*© Gᴇɴᴇʀᴀᴛᴇᴅ 4 ❤️🌟*"},{quoted:mek})
 
 }catch(e){
 console.log(e)
@@ -83,7 +66,7 @@ cmd({
     pattern: "ytmp4",
     alias: ["video3"],
     desc: "To download videos.",
-    react: "🎥",
+    react: "🎬",
     category: "download",
     filename: __filename
 },
@@ -96,22 +79,21 @@ const url = data.url
     
     
 let desc = `
-⫷⦁*•SUBZERO-MD VⵊDEO DOWNLOADⵊNG*⦁⫸ 
+⋆✦⋆⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⋆✦⋆
+ 🤍✨𝐂 𝐘 𝐁 𝐄 𝐑-𝐑 𝐀 𝐉 𝐈 𝐁✨🤍
+⋆✦⋆⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⋆✦⋆
 
-🎥 *VⵊDEO FOUND!* 
+       🎬 *｢VⵊDEO FOUND｣* 🎬
 
-➥ *Title:* ${data.title} 
-➥ *Duration:* ${data.timestamp} 
-➥ *Views:* ${data.views} 
-➥ *Uploaded On:* ${data.ago} 
-➥ *Link:* ${data.url} 
+—»✨ ｢Title｣: ${data.title} 
+—»✨ ｢Duration｣: ${data.timestamp} 
+—»✨ ｢Views｣: ${data.views} 
+—»✨ ｢Uploaded On｣: ${data.ago} 
+—»✨ ｢Link｣: ${data.url} 
 
 🎬 *ENJOY THE VIDEO BROUGHT TO YOU!*
 
-> *SUBZERO-MD WHATSAPP BOT* 
-
-> *© ᴄʀᴇᴀᴛᴇᴅ ʙʏ SUBZERO-MD*
-`
+> *CYBER-RAJIB WHATSAPP BOT* `
 
 await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek});
 
@@ -122,7 +104,7 @@ let downloadUrl = down.dl_url
 
 //send video message
 await conn.sendMessage(from,{video: {url:downloadUrl},mimetype:"video/mp4"},{quoted:mek})
-await conn.sendMessage(from,{document: {url:downloadUrl},mimetype:"video/mp4",fileName:data.title + ".mp4",caption:"*© SUBZERO MD*"},{quoted:mek})
+await conn.sendMessage(from,{document: {url:downloadUrl},mimetype:"video/mp4",fileName:data.title + ".mp4",caption:"*© CYBER*"},{quoted:mek})
 
 }catch(e){
 console.log(e)
