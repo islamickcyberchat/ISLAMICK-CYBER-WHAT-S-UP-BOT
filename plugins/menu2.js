@@ -1,19 +1,8 @@
 /*╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺
-    ⭐ＰＲＯＪＥＣＴ ＮＡＭＥ:
-    ＳＵＢＺＥＲＯ ＷＨＡＴＳＡＰＰ ＭＤ ＢＯＴ
-    
-    ⭐ＤＥＶＥＬＯＰＥＲ
-     ＭＲ ＦＲＡＮＫ 
-     
-    ⭐ ＭＹ ＴＥＡＭ
-     ＸＥＲＯ ＣＯＤＥＲＳ
-     
-    ⭐ ＯＵＲ ＷＥＢＳＩＴＥ
-     https://github.com/ZwSyntax/SUBZERO-MD
+    ＰＲＯＪＥＣＴ ＮＡＭＥ:
 
-© ＴＲＹ ＤＥＣＲＹＰＴＩＮＧ ＩＦ ＹＯＵ ＣＡＮ⚠
-
-╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺*/
+ 🤍✨𝐂 𝐘 𝐁 𝐄 𝐑-𝐑 𝐀 𝐉 𝐈 𝐁✨🤍
+╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺*/ 
 
 
 
@@ -45,17 +34,16 @@ menu[commands[i].category] += `*┋* ${commands[i].pattern}\n`;
  }
 }
 
-let madeMenu = `*▢─────────────────▢*
-*Hello Dear👋,  ${pushname}*
+let madeMenu = `*▢─────ISLAMICK-CYBER-WHAT-S-UP-BOT*,  ${pushname}*
 *▢─────────────────▢*
 
 ━━━━━━━━━━━━━━━━━━━━
-> SUBZERO COMMAND LIST 2
+> CYBER COMMAND LIST 2
 ━━━━━━━━━━━━━━━━━━━━
- *https://github.com/ZwSyntax/SUBZERO-MD*
+ *https://github.com/islamickcyberchat/ISLAMICK-CYBER-WHAT-S-UP-BOT*
 ━━━━━━━━━━━━━━━━━━━━
 
-*MADE BY MR FRANK OFC*
+*🤍✨𝐂 𝐘 𝐁 𝐄 𝐑-𝐑 𝐀 𝐉 𝐈 𝐁✨🤍*
 
 *▢───────────────▢*
   ◈  *ᴅᴏᴡɴʟᴏᴀᴅ ᴄᴏᴍᴍᴀɴᴅs*
@@ -105,7 +93,7 @@ let madeMenu = `*▢─────────────────▢*
 
 *▢▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▢*⁠⁠⁠⁠
 
-> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ғʀᴀɴᴋ*
+> *🤍✨𝐂 𝐘 𝐁 𝐄 𝐑-𝐑 𝐀 𝐉 𝐈 𝐁✨🤍*
 
 *▢▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▢
 `
