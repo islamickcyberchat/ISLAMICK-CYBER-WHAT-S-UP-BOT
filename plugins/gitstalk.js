@@ -1,19 +1,8 @@
 /*╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺
-    ⭐ＰＲＯＪＥＣＴ ＮＡＭＥ:
-    ＳＵＢＺＥＲＯ ＷＨＡＴＳＡＰＰ ＭＤ ＢＯＴ
-    
-    ⭐ＤＥＶＥＬＯＰＥＲ
-     ＭＲ ＦＲＡＮＫ 
-     
-    ⭐ ＭＹ ＴＥＡＭ
-     ＸＥＲＯ ＣＯＤＥＲＳ
-     
-    ⭐ ＯＵＲ ＷＥＢＳＩＴＥ
-     https://github.com/ZwSyntax/SUBZERO-MD
+    ＰＲＯＪＥＣＴ ＮＡＭＥ:
 
-© ＴＲＹ ＤＥＣＲＹＰＴＩＮＧ ＩＦ ＹＯＵ ＣＡＮ⚠
-
-╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺*/
+ 🤍✨𝐂 𝐘 𝐁 𝐄 𝐑-𝐑 𝐀 𝐉 𝐈 𝐁✨🤍
+     ╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺*/ 
 
 
 
@@ -43,30 +32,32 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         const response = await axios.get(apiUrl);
         const data = response.data;
 
-        let userInfo = `     👨‍💻*SUBZERO-MD GITSTALK*👨‍💻
+        let userInfo = `   
+⋆✦⋆⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⋆✦⋆
+ 🤍✨𝐂 𝐘 𝐁 𝐄 𝐑-𝐑 𝐀 𝐉 𝐈 𝐁✨🤍
+⋆✦⋆⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⋆✦⋆
+.           💻 ｢GITSTALK｣ 💻
         
-👤 *ᴜꜱᴇʀ ɴᴀᴍᴇ*: ${data.name || data.login}
+👤 ｢ᴜꜱᴇʀ ɴᴀᴍᴇ｣: ${data.name || data.login}
 
-🔗 *ɢɪᴛʜᴜʙ ᴜʀʟ*:(${data.html_url})
+🔗 ｢ɢɪᴛʜᴜʙ ᴜʀʟ｣:(${data.html_url})
 
-📝 *ʙɪᴏ*: ${data.bio || 'Not available'}
+📝 ｢ʙɪᴏ｣: ${data.bio || 'Not available'}
 
-🏙️ *ʟᴏᴄᴀᴛɪᴏɴ*: ${data.location || 'Unknown'}
+🏙️ ｢ʟᴏᴄᴀᴛɪᴏɴ｣: ${data.location || 'Unknown'}
 
-📊 *ᴘᴜʙʟɪᴄ ʀᴇᴘᴏ*: ${data.public_repos}
+📊 ｢ᴘᴜʙʟɪᴄ ʀᴇᴘᴏ｣: ${data.public_repos}
 
-👥 *ꜰᴏʟʟᴏᴡᴇʀꜱ*: ${data.followers} | Following: ${data.following}
+👥 ｢ꜰᴏʟʟᴏᴡᴇʀꜱ｣: ${data.followers} | Following: ${data.following}
 
-📅 *ᴄʀᴇᴀᴛʀᴅ ᴅᴀᴛᴇ*: ${new Date(data.created_at).toDateString()}
+📅 ｢ᴄʀᴇᴀᴛʀᴅ ᴅᴀᴛᴇ｣: ${new Date(data.created_at).toDateString()}
 
-🔭 *ᴘᴜʙʟɪᴄ ɢɪꜱᴛꜱ*: ${data.public_gists}
-
-*MADE ♥ BY SUBZERO-MD*
+🔭 ｢ᴘᴜʙʟɪᴄ ɢɪꜱᴛꜱ｣: ${data.public_gists}
 `;
 
         await conn.sendMessage(from, { image: { url: data.avatar_url }, caption: userInfo }, { quoted: mek });
     } catch (e) {
         console.log(e);
-        reply(`Error fetching data🤕: ${e.response ? e.response.data.message : e.message}`);
+        reply(`Error fetching data😫: ${e.response ? e.response.data.message : e.message}`);
     }
 });
