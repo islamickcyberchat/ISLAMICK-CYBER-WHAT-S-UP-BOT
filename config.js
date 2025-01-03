@@ -1,18 +1,7 @@
 /*╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺
-    ⭐ＰＲＯＪＥＣＴ ＮＡＭＥ:
-    ＳＵＢＺＥＲＯ ＷＨＡＴＳＡＰＰ ＭＤ ＢＯＴ
-    
-    ⭐ＤＥＶＥＬＯＰＥＲ
-     ＭＲ ＦＲＡＮＫ 
-     
-    ⭐ ＭＹ ＴＥＡＭ
-     ＸＥＲＯ ＣＯＤＥＲＳ
-     
-    ⭐ ＯＵＲ ＷＥＢＳＩＴＥ
-     https://github.com/ZwSyntax/SUBZERO-MD
+    ＰＲＯＪＥＣＴ ＮＡＭＥ:
 
-© ＴＲＹ ＤＥＣＲＹＰＴＩＮＧ ＩＦ ＹＯＵ ＣＡＮ⚠
-
+ 🤍✨𝐂 𝐘 𝐁 𝐄 𝐑-𝐑 𝐀 𝐉 𝐈 𝐁✨🤍
 ╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺*/
 
 const fs = require('fs');
@@ -22,10 +11,10 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 
-//--------------------------Mr Frank--------------------------------------
+//--------------------------CYBER-RAJIB--------------------------------------
 module.exports = {
     SESSION_ID: process.env.SESSION_ID || "mUZ1lapb#zoEOZQr30-5C5xtDyszSswtp53xYRd5O0TPVLvDpyfE",
-    CAPTION: process.env.CAPTION || "*©  Gᴇɴᴇʀᴀᴛᴇᴅ Bʏ SᴜʙZᴇʀᴏ MD*",
+    CAPTION: process.env.CAPTION || "*©  Gᴇɴᴇʀᴀᴛᴇᴅ Bʏ ɪsʟᴀᴍɪᴄᴋ-ᴄʏʙᴇʀ-ᴄʜᴀᴛ*",
     ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "true",
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
     READ_MESSAGE: process.env.READ_MESSAGE || "false", // Added auto-read configuration
@@ -35,8 +24,8 @@ module.exports = {
     AUTO_VOICE: process.env.AUTO_VOICE || "false",
     AUTO_STICKER: process.env.AUTO_STICKER || "false",
     AUTO_REPLY: process.env.AUTO_REPLY || "false",
-    ALIVE_IMG: process.env.ALIVE_IMG || "https://i.postimg.cc/m2jtqrBC/Screenshot-20241216-090753-Video-Maker.jpg",
-    ALIVE_MSG: process.env.ALIVE_MSG || "sᴜʙᴢᴇʀᴏ ᴍᴅ ɪs ᴏɴʟɪɴᴇ🚀",
+    ALIVE_IMG: process.env.ALIVE_IMG || "https://i.postimg.cc/5tsJvjjV/received-583147497311518.jpg",
+    ALIVE_MSG: process.env.ALIVE_MSG || "ɪsʟᴀᴍɪᴄᴋ-ᴄʏʙᴇʀ-ᴄʜᴀᴛ ɪs ᴏɴʟɪɴᴇ 🛰️",
     ANTI_LINK: process.env.ANTI_LINK || "true",
     ANTI_BAD: process.env.ANTI_BAD || "true",
     PREFIX: process.env.PREFIX || "/",
@@ -44,9 +33,9 @@ module.exports = {
     AUTO_REACT: process.env.AUTO_REACT || "false",
     HEART_REACT: process.env.HEART_REACT || "false",
     OWNER_REACT: process.env.OWNER_REACT || "false",
-    BOT_NAME: process.env.BOT_NAME || "『 𝐒𝐔𝐁𝐙𝐄𝐑𝐎 𝐃 』",
+    BOT_NAME: process.env.BOT_NAME || "『 𝐂 𝐘 𝐁 𝐄 𝐑 』",
     AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "true",
-    AUTO_STATUS__MSG: process.env.AUTO_STATUS__MSG || "`Status Seen By SubZero Bot 🦄 `",
+    AUTO_STATUS__MSG: process.env.AUTO_STATUS__MSG || "`Status Seen By Islamick cyber chat bot 🕋✨ `",
     OMDB_API_KEY: process.env.OMDB_API_KEY || "76cb7f39", // omdbapi.com
 };
-//--------------MADE BY MR FRANK 2024 DEC---------------->-
+//--------------MADE BY CYBER RAJIB 2025 Janu---------------->-
