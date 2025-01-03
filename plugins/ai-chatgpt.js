@@ -4,8 +4,8 @@ const { fetchJson } = require('../lib/functions')
 
 cmd({
     pattern: "ai",
-    alias: ["gpt","subzero"], 
-    react: "🧠",
+    alias: ["gpt","CYBER"], 
+    react: "👀",
     desc: "ai chat.",
     category: "main",
     filename: __filename
