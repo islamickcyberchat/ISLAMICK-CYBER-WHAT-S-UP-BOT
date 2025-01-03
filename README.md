@@ -7,12 +7,13 @@
 ----------
 ## CLICK <a href="https://github.com/mrfrank-ofc/SUBZERO-MD/issues/2#issue-2744137419">HERE IF YOU ARE NEW TO BOTS</a>
 
-!<img src='[https://i.postimg.cc/rwXsg7Yt/ultra.jpg]'/>
+
+<img src='https://i.postimg.cc/m2jtqrBC/Screenshot-20241216-090753-Video-Maker.jpg'/>
 
 -------
 
  <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=cyan&center=true&vCenter=true&multiline=false&lines=`C Y B E R+R A J I B+W.A+BOT`" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=cyan&center=true&vCenter=true&multiline=false&lines=`C Y B E R+R A J I B+W.P+BOT`" alt="">
 
 <br>
 
