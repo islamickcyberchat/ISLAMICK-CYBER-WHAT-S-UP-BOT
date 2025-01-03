@@ -1,19 +1,8 @@
 /*╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺
-    ⭐ＰＲＯＪＥＣＴ ＮＡＭＥ:
-    ＳＵＢＺＥＲＯ ＷＨＡＴＳＡＰＰ ＭＤ ＢＯＴ
-    
-    ⭐ＤＥＶＥＬＯＰＥＲ
-     ＭＲ ＦＲＡＮＫ 
-     
-    ⭐ ＭＹ ＴＥＡＭ
-     ＸＥＲＯ ＣＯＤＥＲＳ
-     
-    ⭐ ＯＵＲ ＷＥＢＳＩＴＥ
-     https://github.com/ZwSyntax/SUBZERO-MD
+    ＰＲＯＪＥＣＴ ＮＡＭＥ:
 
-© ＴＲＹ ＤＥＣＲＹＰＴＩＮＧ ＩＦ ＹＯＵ ＣＡＮ⚠
-
-╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺*/
+ 🤍✨𝐂 𝐘 𝐁 𝐄 𝐑-𝐑 𝐀 𝐉 𝐈 𝐁✨🤍
+ ╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺*/
 
 
 
@@ -22,49 +11,46 @@ const config = require('../config');
 
 const {cmd , commands} = require('../command')
 cmd({
-    pattern: "about",
-    alias: ["mrfrank"],
-    react: "👨‍💻",
+    pattern: "admin",
+    alias: ["CYBER-RAJIB"],
+    react: "😍",
     desc: "get owner dec",
-    category: "main",
+    category: "admin",
     filename: __filename
 },
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
 let madeMenu = `━━━━━━━━━━━━━━━━━━━━━━━━
 
-*👋 HELLO ${pushname}*\n\n *I AM SUBZERO MD*\n
-I am  WhatsApp Based Multi Device Bot Created By Darrell Mucheri T from Zimbabwe.\nMy sole purpose is to remove the burden or cost of purchusing data bundle to download Songs, Apps, Videos & Movies by  using whatsapp  bundles.
-\n\n *For More Visit*: https://mrfrankinc.vercel.app/
+*আসসালামু আলাইকুম-!!🖤💫 ${pushname}*\n\n *I AM CYBER-RAJIB*\n
+I am  WhatsApp Based Multi Device Bot.\nMy sole purpose is to remove the burden or cost of purchusing data bundle to download Songs, Apps, Videos & Movies by  using whatsapp  bundles.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━
 
-⛓️ *SOURCE CODE* 
-> https://github.com/mrfrank-ofc/SUBZERO-MD
+ ❤️᭄ | ༆-✿ Github Fork..!!༊࿐
+•—»✨ https://github.com/islamickcyberchat/ISLAMICK-CYBER-WHAT-S-UP-BOT
 
   
-🛠️ *FOLLOW OWNER*
-> https://github.com/mrfrank-ofc/
+ 🩷᭄ | ༆-✿FOLLOW OWNER .!!༊࿐
+•—»✨ https://github.com/islamickcyberchat
 
-👨‍💻 *OWNER'S WHATSAPP*
-> https://wa.me/18062212660/?text=SubZero+Fan+Here
+🧡᭄ | ༆-✿OWNER'S WHATSAPP..!!༊࿐
+> https://wa.me/+8801859551262/?text=Rajib+Fan+Here
 
-👩‍🍼 *2ND DEVELOPER* 
-> https://wa.me/265993702468/?text=SubZero+Fan+Here
 
-📌 *SUPPORT CHANNEL* 
-> https://whatsapp.com/channel/0029VagQEmB002T7MWo3Sj1D
+💜᭄ | ༆-✿SUPPORT GROUP .!!༊࿐
+•—»✨ https://chat.whatsapp.com/ILPujzXlPw34VIebncoVS1
 
-🔗 *FOLLOW INSTAGRAM* 
-> https://instagram.com/mrfrankofc/
+💙᭄ | ༆-✿FOLLOW FACEBOOK .!!༊࿐
+•—»✨ https://www.facebook.com/cyberrajib
 
-👨‍💻 *FOLLOW OWNER* 
-> https://youtube.com/mrfr4nk/
+💖᭄ | ༆-✿FOLLOW FB PAGE .!!༊࿐
+•—»✨ https://www.facebook.com/profile.php?id=100081939442749
 
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
- *[*RELEASE DATE* - *15 December 2024*]*
+ *[*RELEASE DATE* - *1 January  2025*]*
  
-> *MR FRANK OFC*
+>✮͢ꓸ⃟ꓸ⃟ꓸ✮͢🩷CYBER-RAJIB ≛⃝🪽⃪𝄞⋆⃝
 
 ━━━━━━━━━━━━━━━━━━━━━━━━
 `
