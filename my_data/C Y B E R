@@ -1,0 +1,12 @@
+control = npm  "start"
+cmd = "run"
+
+cp { uptrend gb }
+
+upt `update + 6/00 + 7/24`
+
+
+
+
+
+creator : CYBER - RAJIB 
