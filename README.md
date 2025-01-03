@@ -5,7 +5,7 @@
 ❖ **`A WhatsApp Multi Device Bot To Take Your WhatsApp To Another Level !`** ❖
 
 ----------
-## CLICK <a href="https://github.com/mrfrank-ofc/SUBZERO-MD/issues/2#issue-2744137419">HERE IF YOU ARE NEW TO BOTS</a>
+## CLICK <a href="https://github.com/islamickcyberchat/ISLAMICK-CYBER-WHAT-S-UP-BOT/issues">HERE IF YOU ARE NEW TO BOTS</a>
 
 
 <img src='https://i.postimg.cc/hPQGnNWd/CYBER.jpg'/>
@@ -21,16 +21,16 @@
 
 <p align="center">
 <a href="https://github.com/mrfrank-ofc/"><img title="Followers" src="https://img.shields.io/github/followers/mrfrank-ofc?color=blue&style=flat-square"></a>
-<a href="https://github.com/mrfrank-ofc/SUBZERO-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mrfrank-ofc/SUBZERO-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/mrfrank-ofc/SUBZERO-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mrfrank-ofc/SUBZERO-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/mrfrank-ofc/SUBZERO-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/mrfrank-ofc/SUBZERO-MD?style=flat-square&color=blue"></a>
-<a href="https://github.com/mrfrank-ofc/SUBZERO-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/islamickcyberchat/ISLAMICK-CYBER-WHAT-S-UP-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/islamickcyber-chat/ISLAMICK-CYBER-WHAT-S-UP-BOT?color=blue&style=flat-square"></a>
+<a href="https://github.com/islamickcyberchat/ISLAMICK-CYBER-WHAT-S-UP-BOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/islamickcyber-chat/ISLAMICK-CYBER-WHAT-S-UP-BOT?color=blue&style=flat-square"></a>
+<a href="https://github.com/islamickcyberchat/ISLAMICK-CYBER-WHAT-S-UP-BOT/"><img title="Size" src="https://img.shields.io/github/repo-size/islamickcyber-chat/ISLAMICK-CYBER-WHAT-S-UP-BOT?style=flat-square&color=blue"></a>
+<a href="https://github.com/islamickcyberchat/ISLAMICK-CYBER-WHAT-S-UP-BOT/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
 
 -----------
-<div align="center"><br> <img src="https://profile-counter.glitch.me/SILENT-SOBX-MD/count.svg" /><br>SUBZERO-MD</div>
+<div align="center"><br> <img src="https://profile-counter.glitch.me/SILENT-SOBX-MD/count.svg" /><br>CYBER-RAJIB</div>
 
 ------------
 
@@ -74,7 +74,7 @@ jobs:
       run: npm start
 ```
 
-[![FORK CYBER RAJIB](https://img.shields.io/badge/FORK%20-SUBZERO%20MD%20V4-white)](https://github.com/mrfrank-ofc/SUBZERO-MD/fork)
+[![FORK CYBER RAJIB](https://img.shields.io/badge/FORK%20-CYBER%20RAJIB%20V4-white)](https://github.com/islamickcyberchat/ISLAMICK-CYBER-WHAT-S-UP-BOT/fork)
 
 ### <br>    ❖ SESSION_ID ❖
 
@@ -95,31 +95,31 @@ jobs:
 
 
  
-🥂 `THIS BOT IS CREATED TO DOWNLOAD'S AND FIND VARIOUS TYPES THINGS QUICKLY **EXAMPLE** LOGO, PHOTO, STICKERS, VIDEOS, MOVIES, ADULT, AND MANY MORE FEATURES BY USING THIS BOT™ THIS BOT IS CREATED TO USING` 🥂 **[Baileys](https://github.com/WhiskeySockets/Baileys)**
+🕋✨ `THIS BOT IS CREATED TO DOWNLOAD'S AND FIND VARIOUS TYPES THINGS QUICKLY **EXAMPLE** LOGO, PHOTO, STICKERS, VIDEOS, MOVIES, ADULT, AND MANY MORE FEATURES BY USING THIS BOT™ THIS BOT IS CREATED TO USING` 🌸 **[CYBER-RAJIB](https://github.com/islamickcyberchat/ISLAMICK-CYBER-WHAT-S-UP-BOT)**
 
 ------------------
 
 ### <br> ❖ FOR SUPPORT ❖
 
-**`➩ HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME MR FRANK ࿐➺`**
+**`➩ HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME CYBER-RAJIB ࿐➺`**
 
 -------
 
 <p align="center">
-  <a href="https://wa.me/+263719647303?text=*ʜɪɪ+Mr Frank+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ʀᴇᴘᴏ!!*" target="_blank">
+  <a href="https://wa.me/+8801859551262?text=*ʜɪɪ+CYBER-RAJIB+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ʀᴇᴘᴏ!!*" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 -----------    
 
-`🚀 IF YOU WANT MORE ABOUT SUBZERO-MDWHATSAPP BOT :-NEW UPDATED NEW CMDS SO JOIN OUR WHATSAPP CHANNEL FOR MORE INFORMATION CLICK THIS RED BUTTON 🔳 AND JOIN THE GROUP 🚀`
+`🚀 IF YOU WANT MORE ABOUT CYBER-RAJIBWHATSAPP BOT :-NEW UPDATED NEW CMDS SO JOIN OUR WHATSAPP CHANNEL FOR MORE INFORMATION CLICK THIS RED BUTTON 🔳 AND JOIN THE GROUP 🚀`
 
 ---------
 
-<a href="https://whatsapp.com/channel/0029VagQEmB002T7MWo3Sj1D"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ᴡʜᴀᴛsᴀᴘᴘ%20ᴄʜᴀɴɴᴇʟ-red" alt="🔰 ᴊᴏɪɴ ᴍʏ ᴡʜᴀᴛsᴀᴘᴘ ᴄʜᴀɴɴᴇʟ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
+<a href="https://chat.whatsapp.com/ILPujzXlPw34VIebncoVS1"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ᴡʜᴀᴛsᴀᴘᴘ%20ᴄʜᴀɴɴᴇʟ-red" alt="🔰 ᴊᴏɪɴ ᴍʏ ᴡʜᴀᴛsᴀᴘᴘ ᴄʜᴀɴɴᴇʟ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
 
 -----------
 
-`🚀 IF YOU WANT MORE ABOUT SUBZERO-MDWHATSAPP BOT :-NEW UPDATED NEW CMDS SO SUBSCRIBE OUR YOUTUBE CHANNEL FOR MORE INFORMATION CLICK THIS BLUE BUTTON 🔳 AND JOIN THE YOUTUBE CHANNEL 🚀`
+`🚀 IF YOU WANT MORE ABOUT CYBER-RAJIB WHATSAPP BOT :-NEW UPDATED NEW CMDS SO SUBSCRIBE OUR YOUTUBE CHANNEL FOR MORE INFORMATION CLICK THIS BLUE BUTTON 🔳 AND JOIN THE YOUTUBE CHANNEL 🚀`
 
 ----------
 ## CREATE TALDROVE ACCOUNT
@@ -130,38 +130,37 @@ jobs:
 
 <a href="https://host.talkdrove.com/share-bot/66"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20HOST.TALKDROVE%20FREE%20SUBZERO%20DEPLOY-blue" alt="hosttaldrove DEPLOY" width="300"></a>
 ---------
-
-<a href="https://youtube.com/@mrf4nk?si=F1IIc1As0gu3ijqk"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ʏᴏᴜᴛᴜʙᴇ%20ᴄʜᴀɴɴᴇʟ-blue" alt="🔰 ᴊᴏɪɴ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
+<a href="https://youtube.com/@islamickcyberchatbot?si=F1IIc1As0gu3ijqk"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ʏᴏᴜᴛᴜʙᴇ%20ᴄʜᴀɴɴᴇʟ-blue" alt="🔰 ᴊᴏɪɴ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
 
 --------------
  
 ### <br>   ❖ DEPLOY_HEROKU ❖
 
-`🚀 IF YOU WANT TO DEPLOY SUBZERO-MDBOT ON HEROKU SO FIRST GET YOUR SESSION_ID THEN CLICK THIS BLUE BUTTON [DEPLOY TO HEROKU] THEN YOU CAN ENJOY THIS BOT 🚀`
+`🚀 IF YOU WANT TO DEPLOY CYBER-RAJIB BOT ON HEROKU SO FIRST GET YOUR SESSION_ID THEN CLICK THIS BLUE BUTTON [DEPLOY TO HEROKU] THEN YOU CAN ENJOY THIS BOT 🚀`
 
 ------------
  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/mrfrank-ofc/SUBZERO-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/islamickcyberchat/ISLAMICK-CYBER-WHAT-S-UP-BOT)
 
 ----------
 
 ### <br>    ❖ DEPLOY_REPLIT ❖
 
-`🚀 IF U HAVE YOUR REPLIT ACCOUNT SO YOU CAN EASY DEPLOY SUBZERO-MD ON REPLIT CLICK BLACK BUTTON [DEPLOY TO REPLIT] AND FIND CONFIG.JSON FILE THEN PASTE YOUR SESSION AND MONGODB KEY THEN RUN CODE AND ENJOY BOT 🚀`
+`🚀 IF U HAVE YOUR REPLIT ACCOUNT SO YOU CAN EASY DEPLOY CYBER-RAJIB ON REPLIT CLICK BLACK BUTTON [DEPLOY TO REPLIT] AND FIND CONFIG.JSON FILE THEN PASTE YOUR SESSION AND MONGODB KEY THEN RUN CODE AND ENJOY BOT 🚀`
 
 -------------
 
-<p align="left"><a href="https://repl.it/github/mrfrank-ofc/SUBZERO-MD"> <img src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
+<p align="left"><a href="https://repl.it/https://github.com/islamickcyberchat/ISLAMICK-CYBER-WHAT-S-UP-BOT"> <img src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 --------------
 
 ### <br>   ❖ DEPLOY_KOYEB ❖
 
-`🚀 IF YOU HAVE YOUR KOYEB ACCOUNT SO YOU CAN DEPLOY SUBZERO-MD ON KOYEB WITH EASY SETUP NOTE:-MAYBE SOME PROBLEM TO DEPLOY ON KOYEB I ILL FIX SOON 🚀`
+`🚀 IF YOU HAVE YOUR KOYEB ACCOUNT SO YOU CAN DEPLOY CYBER-RAJIB ON KOYEB WITH EASY SETUP NOTE:-MAYBE SOME PROBLEM TO DEPLOY ON KOYEB I ILL FIX SOON 🚀`
 
 ---------
 
-<a href='https://app.koyeb.com/services/deploy?type=git&repository=https://github.com/mrfrank-ofc/SUBZERO-MD&branch=main&name=subzero-md&builder=dockerfile&env[OWNER_NUMBER]=263719647303%3B%E2%9D%A3%EF%B8%8F&env[MODE]=public&env[PREFIX]=&env[antidelete]=false&env[ANTI_LINK]=false&env[AUTO_STICKER]=false&env[AUTO_VOICE]=false&env[AUTO_REPLY]=false&env[STATUSLIKES]=true&env[ALIVE_MSG]=SUBZERO+IS+ONLINE&env[BOT_NAME]=SUBZERO-MD&env[HEART_REACT]=true%F0%9F%8E%97%EF%B8%8F%E2%9D%A3%EF%B8%8F&env[ANTI_BAD]=false&env[AUTO_READ_STATUS]=false&env[AutoReaction]=false&env[SESSION_ID]=' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-KOYEB-blue?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
+<a href='https://app.koyeb.com/services/deploy?type=git&repository=https://github.com/islamickcyberchat/ISLAMICK-CYBER-WHAT-S-UP-BOT&branch=main&name=CYBER-RAJIB&builder=dockerfile&env[OWNER_NUMBER]=263719647303%3B%E2%9D%A3%EF%B8%8F&env[MODE]=public&env[PREFIX]=&env[antidelete]=false&env[ANTI_LINK]=false&env[AUTO_STICKER]=false&env[AUTO_VOICE]=false&env[AUTO_REPLY]=false&env[STATUSLIKES]=true&env[ALIVE_MSG]=CYBER+IS+ONLINE&env[BOT_NAME]=CYBER-RAJIB&env[HEART_REACT]=true%F0%9F%8E%97%EF%B8%8F%E2%9D%A3%EF%B8%8F&env[ANTI_BAD]=false&env[AUTO_READ_STATUS]=false&env[AutoReaction]=false&env[SESSION_ID]=' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-KOYEB-blue?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
 
 ------------
 
@@ -206,7 +205,7 @@ jobs:
 
 -------------
 
-Thanks For Using SubZero Md
+Thanks For Using CYBER-RAJIB
 
-> Release Date : 15/12/2024 at 00.00
+> Release Date : 1/1/2025 at 00.00
 Dᴏɴ’ᴛ Fᴏʀɢᴇᴛ ᴛᴏ ɢɪᴠᴇ ᴀ sᴛᴀʀ ⭐️ ᴀꜰᴛᴇʀ ꜰᴏʀᴋ
