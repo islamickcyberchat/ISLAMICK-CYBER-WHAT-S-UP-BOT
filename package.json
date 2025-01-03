@@ -1,12 +1,12 @@
 {
-  "name": "SUBZERO-MD",
+  "name": "CYBER-RAJIB",
   "version": "1.0.2",
   "description": "A WhatsApp bot created using Node.js",
   "main": "index.js",
   "scripts": {
-      "start": "pm2 start index.js --name SUBZERO-M --deep-monitoring --attach",
-    "stop": "pm2 stop SUBZERO-MD",
-    "restart": "pm2 restart SUBZERO-MD"
+      "start": "pm2 start index.js --name CYBER-RAJIB --deep-monitoring --attach",
+    "stop": "pm2 stop CYBER-RAJIB",
+    "restart": "pm2 restart CYBER-RAJIB"
   },
   "dependencies": {
         "@adiwajshing/keyed-db": "^0.2.4",
