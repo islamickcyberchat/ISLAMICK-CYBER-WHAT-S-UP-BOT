@@ -1,18 +1,7 @@
 /*╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺
-    ⭐ＰＲＯＪＥＣＴ ＮＡＭＥ:
-    ＳＵＢＺＥＲＯ ＷＨＡＴＳＡＰＰ ＭＤ ＢＯＴ
-    
-    ⭐ＤＥＶＥＬＯＰＥＲ
-     ＭＲ ＦＲＡＮＫ 
-     
-    ⭐ ＭＹ ＴＥＡＭ
-     ＸＥＲＯ ＣＯＤＥＲＳ
-     
-    ⭐ ＯＵＲ ＷＥＢＳＩＴＥ
-     https://github.com/ZwSyntax/SUBZERO-MD
+    ＰＲＯＪＥＣＴ ＮＡＭＥ:
 
-© ＴＲＹ ＤＥＣＲＹＰＴＩＮＧ ＩＦ ＹＯＵ ＣＡＮ⚠
-
+ 🤍✨𝐂 𝐘 𝐁 𝐄 𝐑-𝐑 𝐀 𝐉 𝐈 𝐁✨🤍
 ╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺*/
 
 
@@ -27,12 +16,12 @@ cmd({
     pattern: "shutdown",
     desc: "Shutdown the bot.",
     category: "owner",
-    react: "🛑",
+    react: "⛈️",
     filename: __filename
 },
 async (conn, mek, m, { from, isOwner, reply }) => {
     if (!isOwner) return reply("❌ You are not the owner!");
-    reply("🛑 Shutting down...").then(() => process.exit());
+    reply(" Shutting down...⛈️").then(() => process.exit());
 });
 // 2. Broadcast Message to All Groups
 cmd({
@@ -134,16 +123,16 @@ cmd({
     pattern: "jid",
     desc: "Get the bot's JID.",
     category: "owner",
-    react: "🤖",
+    react: "🍂",
     filename: __filename
 },
 async (conn, mek, m, { from, isOwner, reply }) => {
     if (!isOwner) return reply("❌ You are not the owner!");
-    reply(`🤖 *Bot JID:* ${conn.user.jid}`);
+    reply(` 💗*Bot JID:* ${conn.user.jid}`);
 });
 // 8. Group JIDs List
 cmd({
-    pattern: "gjid",
+    pattern: "gpid",
     desc: "Get the list of JIDs for all groups the bot is part of.",
     category: "owner",
     react: "📝",
