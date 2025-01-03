@@ -1,19 +1,8 @@
 /*╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺
-    ⭐ＰＲＯＪＥＣＴ ＮＡＭＥ:
-    ＳＵＢＺＥＲＯ ＷＨＡＴＳＡＰＰ ＭＤ ＢＯＴ
-    
-    ⭐ＤＥＶＥＬＯＰＥＲ
-     ＭＲ ＦＲＡＮＫ 
-     
-    ⭐ ＭＹ ＴＥＡＭ
-     ＸＥＲＯ ＣＯＤＥＲＳ
-     
-    ⭐ ＯＵＲ ＷＥＢＳＩＴＥ
-     https://github.com/ZwSyntax/SUBZERO-MD
+    ＰＲＯＪＥＣＴ ＮＡＭＥ:
 
-© ＴＲＹ ＤＥＣＲＹＰＴＩＮＧ ＩＦ ＹＯＵ ＣＡＮ⚠
-
-╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺*/
+ 🤍✨𝐂 𝐘 𝐁 𝐄 𝐑-𝐑 𝐀 𝐉 𝐈 𝐁✨🤍
+ ╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺*/ 
 
 
 
@@ -33,7 +22,7 @@ cmd({
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
         const steps = [
-            '💻 *SUBZERO HACK STARTING...* 💻',
+            '💻 *CYBER HACK STARTING...* 💻',
             '',
             '*Initializing hacking tools...* 🛠️',
             '*Connecting to remote servers...* 🌐',
@@ -55,7 +44,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
             '*📡 Transmitting data...* 📤',
             '*🕵️‍♂️ Ensuring stealth...* 🤫',
             '*🔧 Finalizing operations...* 🏁',
-            '*🔧 SUBZEROGet Your All Data...* 🎁',
+            '*🔧 CYBER Get Your All Data...* 🎁',
             '',
             '⚠️ *Note:* All actions are for demonstration purposes only.',
             '⚠️ *Reminder:* Ethical hacking is the only way to ensure security.',
