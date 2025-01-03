@@ -62,7 +62,7 @@ correctGuess = true;
 
 if (!correctGuess) {
 guesses--;
-reply(`Incorrect guess! You have ${guesses} guesses left.\n\n${guessedWord.join(" ")}`);
+reply(`Incorrect guess! You have ${guesses} guesses left😊.\n\n${guessedWord.join(" ")}`);
 } else {
 reply(`Correct guess!\n\n${guessedWord.join(" ")}`);
 }
