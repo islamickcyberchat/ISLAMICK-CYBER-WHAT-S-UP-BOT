@@ -15,7 +15,7 @@ async (conn, mek, m, { from, l, quoted, body, isCmd, command, args, q, isGroup, 
     try {
         // Liste des options NSFW
         const nsfwList = `
-*• SUBZERO NSFW🤤🔞 •*
+*• CYBER NSFW🤤🔞 •*
 
 1️⃣ *EJACULATION*⛈️
 2️⃣ *PENIS*🍆
@@ -368,7 +368,7 @@ async (conn, mek, m, { from, l, quoted, body, isCmd, command, args, q, isGroup, 
             // Envoi de l'image dans le chat
             await conn.sendMessage(from, {
                 image: { url: imageUrl },
-                caption: 'Here is your kiss NSFW image 🔞💋.\n> SUBZERO💋🔞.'
+                caption: 'Here is your kiss NSFW image 🔞💋.\n> CYBER💋🔞.'
             }, { quoted: mek });
         } else {
             reply('❌ Unable to fetch image. Please try again later.');
