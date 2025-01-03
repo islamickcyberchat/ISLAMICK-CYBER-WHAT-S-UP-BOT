@@ -1,18 +1,18 @@
 ---------
 
-### ❖  ＳＵＢＺＥＲＯ - ＭＤ - ＢＯＴ ❖
+###  🤍✨𝐂 𝐘 𝐁 𝐄 𝐑-𝐑 𝐀 𝐉 𝐈 𝐁✨🤍
 
-❄️ **`A WhatsApp Multi Device Bot To Take Your WhatsApp To Another Level !`** ❄️
+❖ **`A WhatsApp Multi Device Bot To Take Your WhatsApp To Another Level !`** ❖
 
 ----------
 ## CLICK <a href="https://github.com/mrfrank-ofc/SUBZERO-MD/issues/2#issue-2744137419">HERE IF YOU ARE NEW TO BOTS</a>
 
-<img src='https://i.postimg.cc/m2jtqrBC/Screenshot-20241216-090753-Video-Maker.jpg'/>
+<img src='[https://i.postimg.cc/rwXsg7Yt/ultra.jpg]'/>
 
 -------
 
  <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=cyan&center=true&vCenter=true&multiline=false&lines=`ＳＵＢＺＥＲＯ+MD+W.A+BOT+BY+MR+FRANK`" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=cyan&center=true&vCenter=true&multiline=false&lines=`C Y B E R+R A J I B+W.A+BOT`" alt="">
 
 <br>
 
@@ -73,12 +73,12 @@ jobs:
       run: npm start
 ```
 
-[![FORK SUBZERO MD](https://img.shields.io/badge/FORK%20-SUBZERO%20MD%20V4-white)](https://github.com/mrfrank-ofc/SUBZERO-MD/fork)
+[![FORK CYBER RAJIB](https://img.shields.io/badge/FORK%20-SUBZERO%20MD%20V4-white)](https://github.com/mrfrank-ofc/SUBZERO-MD/fork)
 
 ### <br>    ❖ SESSION_ID ❖
 
 
-`🚀 IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:+263xxxxxx THEN YOU CAN GET YOUR SESSION_ID 🚀`
+`🚀 IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:+8801xxxxxx THEN YOU CAN GET YOUR SESSION_ID 🚀`
 
 ----------
 ## SESSION ONE
@@ -194,7 +194,7 @@ jobs:
 <a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RENDER-h?color=maroon&style=for-the-badge&logo=render'/></a></p>
 
 -----------
-`🚀 HOW TO DEPLOY SUBZERO-MD ON WORKFLOWS FREE GITHUB WATCH VIDEO 🚀`
+`🚀 HOW TO DEPLOY CYBER-RAJIB ON WORKFLOWS FREE GITHUB WATCH VIDEO 🚀`
 
 -------------
 
