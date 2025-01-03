@@ -1,19 +1,8 @@
 /*╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺
-    ⭐ＰＲＯＪＥＣＴ ＮＡＭＥ:
-    ＳＵＢＺＥＲＯ ＷＨＡＴＳＡＰＰ ＭＤ ＢＯＴ
-    
-    ⭐ＤＥＶＥＬＯＰＥＲ
-     ＭＲ ＦＲＡＮＫ 
-     
-    ⭐ ＭＹ ＴＥＡＭ
-     ＸＥＲＯ ＣＯＤＥＲＳ
-     
-    ⭐ ＯＵＲ ＷＥＢＳＩＴＥ
-     https://github.com/ZwSyntax/SUBZERO-MD
+    ＰＲＯＪＥＣＴ ＮＡＭＥ:
 
-© I smell A Noobie Copy Cat🤣⚠
-
-╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺*/
+ 🤍✨𝐂 𝐘 𝐁 𝐄 𝐑-𝐑 𝐀 𝐉 𝐈 𝐁✨🤍
+╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺*/ 
 
 
 
@@ -46,7 +35,7 @@ cmd({
         }
 
         // Extraire les informations
-        const nationality = data.country.map(country => `🇺🇸 ${country.country_id} (${(country.probability * 100).toFixed(2)}%)`).join("\n");
+        const nationality = data.country.map(country => `🇧🇩 ${country.country_id} (${(country.probability * 100).toFixed(2)}%)`).join("\n");
 
         // Envoyer la réponse avec les nationalités trouvées
         reply(`🌍 *Nationality prediction for ${text.trim()}*: \n\n${nationality}`);
