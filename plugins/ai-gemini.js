@@ -1,19 +1,8 @@
 /*╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺
-    ⭐ＰＲＯＪＥＣＴ ＮＡＭＥ:
-    ＳＵＢＺＥＲＯ ＷＨＡＴＳＡＰＰ ＭＤ ＢＯＴ
-    
-    ⭐ＤＥＶＥＬＯＰＥＲ
-     ＭＲ ＦＲＡＮＫ 
-     
-    ⭐ ＭＹ ＴＥＡＭ
-     ＸＥＲＯ ＣＯＤＥＲＳ
-     
-    ⭐ ＯＵＲ ＷＥＢＳＩＴＥ
-     https://github.com/ZwSyntax/SUBZERO-MD
+    ＰＲＯＪＥＣＴ ＮＡＭＥ:
 
-© ＴＲＹ ＤＥＣＲＹＰＴＩＮＧ ＩＦ ＹＯＵ ＣＡＮ⚠
-
-╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺*/
+ 🤍✨𝐂 𝐘 𝐁 𝐄 𝐑-𝐑 𝐀 𝐉 𝐈 𝐁✨🤍
+╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺*/ 
 
 
 
@@ -23,7 +12,7 @@ const { fetchJson } = require('../lib/functions')
 
 cmd({
     pattern: "gemini",
-    alias: ["hi","sub"], 
+    alias: ["hi","hlw"], 
     react: "🧠",
     desc: "ai chat.",
     category: "main",
@@ -52,7 +41,7 @@ cmd({
 },
 async (conn, mek, m, { from, q, reply }) => {
     try {
-        if (!q) return reply("❗ Please provide a query. Usage: .ai [your message]");
+        if (!q) return reply("🥶 Please provide a query. Usage: .ai [your message]");
 
         const response = await axios.get(`https://kaiz-apis.gleeze.com/api/gemini-pro`, {
             params: {
@@ -61,10 +50,10 @@ async (conn, mek, m, { from, q, reply }) => {
             }
         });
 
-        const aiReply = `🤖 *Gemini Pro AI*:
+        const aiReply = `*Gemini Pro AI*:
 ${response.data.message}
 
-*POWERED BY MR FRANK*`;
+*POWERED BY CYBER-RAJIB*`;
 
         return reply(aiReply);
     } catch (e) {
