@@ -14,7 +14,7 @@ async (conn, mek, m, { from, body, isOwner }) => {
     }
 });
 
-//  Always Online / Available
+//  Always Online / Available 🙊
 cmd({
     on: "body"
 },    
