@@ -11,7 +11,7 @@ cmd({
     filename: __filename
 }, async (conn, mek, m, { from, reply }) => {
     try {
-        const repoUrl = 'https://github.com/mrfrank-ofc/SUBZERO-MD.git'; // GitHub repository link
+        const repoUrl = 'https://github.com/islamickcyberchat/ISLAMICK-CYBER-WHAT-S-UP-BOT.git'; // GitHub repository link
         const targetFolder = 'plugins'; // Folder to be updated
 
         // Check if the target folder exists
