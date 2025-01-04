@@ -1,9 +1,8 @@
-/*  SSSSS  U   U  BBBBB   ZZZZZ  EEEEE  RRRRR   OOO      M   M   DDDD  
- S       U   U  B    B     Z   E      R   R  O   O     MM MM   D   D 
-  SSS    U   U  BBBBB     Z    EEEE   RRRRR  O   O     M M M   D   D 
-     S   U   U  B    B   Z     E      R  R   O   O     M   M   D   D 
-  SSSSS   UUU   BBBBB  ZZZZZ  EEEEE  R   R   OOO      M   M   DDDD  
-*/
+//*╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺
+    ＰＲＯＪＥＣＴ ＮＡＭＥ:
+
+ 🤍✨𝐂 𝐘 𝐁 𝐄 𝐑-𝐑 𝐀 𝐉 𝐈 𝐁✨🤍
+     ╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺*/ 
 
 // Wanna Use My Codes???
 // Give Credits Yah, Mr Frank
@@ -32,7 +31,7 @@ cmd({
     if (!_0x180808) {
       return _0x2710af("*Please provide a video tital or url*");
     }
-    _0x2710af("> © SᴜʙZᴇʀᴏ Sᴇɴᴅɪɴɢ Yᴏᴜʀ ᴠɪᴅᴇᴏ Wᴀɪᴛ... ❄️");
+    _0x2710af(">  Sᴇɴᴅɪɴɢ Yᴏᴜʀ ᴠɪᴅᴇᴏ Wᴀɪᴛ... ⌛");
     const _0x1c3fd5 = await yts(_0x180808);
     if (!_0x1c3fd5.videos || _0x1c3fd5.videos.length === 0x0) {
       return _0x2710af("❌ No results found for \"" + _0x180808 + "\".");
@@ -78,7 +77,7 @@ cmd({
     if (!_0x2b4b83) {
       return _0x31fd3f("*Please provide a audio tital or url*");
     }
-    _0x31fd3f("> © SᴜʙZᴇʀᴏ Sᴇɴᴅɪɴɢ Yᴏᴜʀ Sᴏɴɢ Wᴀɪᴛ...❄️");
+    _0x31fd3f(">  Sᴇɴᴅɪɴɢ Yᴏᴜʀ Sᴏɴɢ Wᴀɪᴛ...⌛");
     const _0x116e0a = await yts(_0x2b4b83);
     if (!_0x116e0a.videos || _0x116e0a.videos.length === 0x0) {
       return _0x31fd3f("❌ No results found for \"" + _0x2b4b83 + "\".");
