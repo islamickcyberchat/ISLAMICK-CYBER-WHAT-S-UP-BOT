@@ -1,19 +1,8 @@
 /*╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺
-    ⭐ＰＲＯＪＥＣＴ ＮＡＭＥ:
-    ＳＵＢＺＥＲＯ ＷＨＡＴＳＡＰＰ ＭＤ ＢＯＴ
-    
-    ⭐ＤＥＶＥＬＯＰＥＲ
-     ＭＲ ＦＲＡＮＫ 
-     
-    ⭐ ＭＹ ＴＥＡＭ
-     ＸＥＲＯ ＣＯＤＥＲＳ
-     
-    ⭐ ＯＵＲ ＷＥＢＳＩＴＥ
-     https://github.com/ZwSyntax/SUBZERO-MD
+    ＰＲＯＪＥＣＴ ＮＡＭＥ:
 
-© ＴＲＹ ＤＥＣＲＹＰＴＩＮＧ ＩＦ ＹＯＵ ＣＡＮ⚠
-
-╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺*/
+ 🤍✨𝐂 𝐘 𝐁 𝐄 𝐑-𝐑 𝐀 𝐉 𝐈 𝐁✨🤍
+     ╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺*/ 
 
 
 
@@ -26,7 +15,7 @@ cmd({
     pattern: "script",
     alias: ["sc","repo","info"],
     desc: "bot repo",
-    react: "🤖",
+    react: "🎉",
     category: "main",
     filename: __filename
 },
@@ -36,22 +25,22 @@ let repo =`
 *⟣━━━━━━━━━━━━━━━━━━━⟢*
    👨‍💻   *BOT OWNER:*
  
-> *Darrell Mucheri ( Mr Frank OFC )*
+> *𝐌𝐝 𝐉𝐚𝐡𝐢𝐝 𝐇𝐚𝐬𝐚𝐧 𝐑𝐚𝐣𝐢𝐛*
 
-   🔗   *SUBZERO REPO:*
+   🔗   *CYBER REPO:*
  
-> *https://github.com/mrfrank-ofc/SUBZERO-MD*
+> *https://github.com/islamickcyberchat/ISLAMICK-CYBER-WHAT-S-UP-BOT*
 
-   🎀  *SUPPORT GROUP:*
+   🎀  *SUPPORT GROUP:* 🎀
  
-> *https://whatsapp.com/channel/0029VagQEmB002T7MWo3Sj1D*
+> *https://chat.whatsapp.com/ILPujzXlPw34VIebncoVS1*
 
   🔎  *DEVELOPER NUMBER:*
  
-> *wa.me/+263718647303/*
+> *wa.me/+8801859551262/*
 
 *⟣━━━━━━━━━━━━━━━━━━━⟢*
-> *CREATED BY MR FRANK*
+> *🤍✨𝐂 𝐘 𝐁 𝐄 𝐑-𝐑 𝐀 𝐉 𝐈 𝐁✨🤍*
 *⟣━━━━━━━━━━━━━━━━━━━⟢*
 `
 /*await conn.sendMessage(
@@ -65,7 +54,7 @@ let repo =`
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363304325601080@newsletter',
-                        newsletterName: '❄️ 𝐒𝐔𝐁𝐙𝐄𝐑𝐎 𝐌𝐃 ❄️',
+                        newsletterName: '🤍✨𝐂 𝐘 𝐁 𝐄 𝐑-𝐑 𝐀 𝐉 𝐈 𝐁✨🤍',
                         serverMessageId: 143
                     }
                 }
@@ -73,9 +62,10 @@ let repo =`
             { quoted: mek }
         );
 
-        // Send audio //https://github.com/mrfrank-ofc/SUBZERO-MD-DATABASE/raw/refs/heads/main/audios/subzero-menu.mp3
-        await conn.sendMessage(from, { //https://github.com/mrfrank-ofc/SUBZERO-MD-DATABASE/blob/main/audios/subzero-menu.mp3
-            audio: { url: 'https://github.com/mrfrank-ofc/SUBZERO-MD-DATABASE/raw/refs/heads/main/audios/subzero-menu.mp3' },//https://github.com/JawadYTX/KHAN-DATA/raw/refs/heads/main/autovoice/sigma.m4a
+        // Send audio //https://github.com/cyberrajib999/DATABASE/raw/main/audios/menu.mp3
+
+        await conn.sendMessage(from, { //https://github.com/cyberrajib999/DATABASE/raw/main/audios/menu.mp3
+            audio: { url: 'https://github.com/cyberrajib999/DATABASE/raw/main/audios/menu.mp3' },//https://github.com/JawadYTX/KHAN-DATA/raw/refs/heads/main/autovoice/sigma.m4a
             mimetype: 'audio/mp4',
             ptt: true
         }, { quoted: mek });*/
@@ -89,4 +79,4 @@ let repo =`
 
 
 
-//  SUBZERO SC BY MR FRANK
+//  CYBER-RAJIB
