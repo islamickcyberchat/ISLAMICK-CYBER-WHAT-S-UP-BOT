@@ -1,9 +1,8 @@
-/*  SSSSS  U   U  BBBBB   ZZZZZ  EEEEE  RRRRR   OOO      M   M   DDDD  
- S       U   U  B    B     Z   E      R   R  O   O     MM MM   D   D 
-  SSS    U   U  BBBBB     Z    EEEE   RRRRR  O   O     M M M   D   D 
-     S   U   U  B    B   Z     E      R  R   O   O     M   M   D   D 
-  SSSSS   UUU   BBBBB  ZZZZZ  EEEEE  R   R   OOO      M   M   DDDD  
-*/
+//*╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺
+    ＰＲＯＪＥＣＴ ＮＡＭＥ:
+
+ 🤍✨𝐂 𝐘 𝐁 𝐄 𝐑-𝐑 𝐀 𝐉 𝐈 𝐁✨🤍
+   ╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺*/ 
 
 // Wanna Use My Codes???
 // Give Credits Yah, Mr Frank
@@ -32,8 +31,81 @@ cmd({
     if (!_0x180808) {
       return _0x2710af("*Please provide a video tital or url*");
     }
-    _0x2710af("> © SᴜʙZᴇʀᴏ Sᴇɴᴅɪɴɢ Yᴏᴜʀ ᴠɪᴅᴇᴏ Wᴀɪᴛ... ❄️");
+    _0x2710af(">  Sᴇɴᴅɪɴɢ Yᴏᴜʀ ᴠɪᴅᴇᴏ Wᴀɪᴛ... ⌛");
     const _0x1c3fd5 = await yts(_0x180808);
+    if (!_0x1c3fd5.videos || _0x1c3fd5.videos.length === 0x0) {
+      return _0x2710af("❌ No results found for \"" + _0x180808 + "\".");
+    }
+    const _0x3e0ad8 = _0x1c3fd5.videos[0x0];
+    const _0x898f76 = _0x3e0ad8.url;
+    const _0x4200bd = "https://api.gifted.my.id/api/download/dlmp4?apikey=gifted&url=" + _0x898f76;
+    const _0x487ed3 = await axios.get(_0x4200bd);
+    if (!_0x487ed3.data.success) {
+      return _0x2710af("❌ Failed to fetch video for \"" + _0x180808 + "\".");
+    }
+    const {
+      download_url: _0xd424ba
+    } = _0x487ed3.data.result;
+    await _0x443755.sendMessage(_0x33c56a, {
+      'video': {
+        'url': _0xd424ba
+      },
+      'mimetype': "video/mp4"
+    }, {
+      'quoted': _0x543ba8
+    });
+  } catch (_0x4921e0) {
+    console.error(_0x4921e0);
+    _0x2710af("❌ An error occurred while processing your request.");
+  }
+});
+cmd({
+  'pattern': "play2",
+  'alias': ["yta", "ytplay"],
+  'react': '⏳',
+  'desc': "Download audio from YouTube by searching for keywords.",
+  'category': "music",
+  'use': ".playx <keywords>",
+  'filename': __filename
+}, async (_0x222018, _0x5bc6a4, _0x2b481b, {
+  from: _0x35d246,
+  args: _0x3a1931,
+  reply: _0x31fd3f
+}) => {
+  try {
+    const _0x2b4b83 = _0x3a1931.join(" ");
+    if (!_0x2b4b83) {
+      return _0x31fd3f("*Please provide a audio tital or url*");
+    }
+    _0x31fd3f("> Sᴇɴᴅɪɴɢ Yᴏᴜʀ Sᴏɴɢ Wᴀɪᴛ...⌛");
+    const _0x116e0a = await yts(_0x2b4b83);
+    if (!_0x116e0a.videos || _0x116e0a.videos.length === 0x0) {
+      return _0x31fd3f("❌ No results found for \"" + _0x2b4b83 + "\".");
+    }
+    const _0x50d4d8 = _0x116e0a.videos[0x0];
+    const _0x228b87 = _0x50d4d8.url;
+    const _0xd4aee7 = "https://api.gifted.my.id/api/download/dlmp3?apikey=gifted&url=" + _0x228b87;
+    const _0x4c55a0 = await axios.get(_0xd4aee7);
+    if (!_0x4c55a0.data.success) {
+      return _0x31fd3f("❌ Failed to fetch audio for \"" + _0x2b4b83 + "\".");
+    }
+    const {
+      download_url: _0x95f653
+    } = _0x4c55a0.data.result;
+    await _0x222018.sendMessage(_0x35d246, {
+      'audio': {
+        'url': _0x95f653
+      },
+      'mimetype': 'audio/mp4',
+      'ptt': false
+    }, {
+      'quoted': _0x5bc6a4
+    });
+  } catch (_0x40de03) {
+    console.error(_0x40de03);
+    _0x31fd3f("❌ An error occurred while processing your request.");
+  }
+});
     if (!_0x1c3fd5.videos || _0x1c3fd5.videos.length === 0x0) {
       return _0x2710af("❌ No results found for \"" + _0x180808 + "\".");
     }
