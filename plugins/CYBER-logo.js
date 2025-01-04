@@ -37,8 +37,7 @@ cmd({
 }) => {
   try {
     if (!_0x222de9[0x0]) {
-      return _0x18078b("*_Please give me a text. Then reply my list number  i have create your logo ✨💗🎀*");
-     image: { url: "https://i.postimg.cc/HkG285Ln/CYBER.jpg" },
+      return _0x18078b("*_Please give me a text. Then reply my list number  i have create your logo ✨💗🎀*");  
     }
     let _0xffdb95 = "┌───〈 *ʟᴏɢᴏ ᴍᴇɴᴜ*  〉───◆\n│\n 〉─ ◈ᴛᴇxᴛ :" + _0x34a07c + "\n│\n│╭──────✧❁✧──────◆\n┴│▸ 1 Bʟᴀᴄᴋ Pɪɴᴋ \n⬡│▸ 2 Bʟᴀᴄᴋ Pɪɴᴋ 2 \n⬡│▸ 3 Sɪʟᴠᴇʀ 3ᴅ \n⬡│▸ 4 Nᴀʀᴜᴛᴏ \n⬡│▸ 5 Dɪɢɪᴛᴀʟ Gʟɪᴛᴄʜ \n⬡│▸ 6 Pɪxᴇʟ Gʟɪᴛᴄʜ \n⬡│▸ 7 Cᴏᴍɪᴄ Sᴛʏʟᴇ \n⬡│▸ 8 Nᴇᴏɴ Lɪɢʜᴛ \n⬡│▸ 9 Fʀᴇᴇ Fᴇᴀʀ \n⬡│▸ 10 Dᴇᴠɪʟ Wɪɴɢꜱ \n⬡│▸ 11 Sᴀᴅ Gɪʀʟ \n⬡│▸ 12 Lᴇᴀᴠᴇꜱ \n⬡│▸ 13 Dʀᴀɢᴏɴ Bᴀʟʟ \n⬡│▸ 14 Hᴀɴᴅ Wʀɪᴛᴛᴇɴ \n⬡│▸ 15 Nᴇᴏɴ Lɪɢʜᴛ \n⬡│▸ 16 3ᴅ Cᴀꜱᴛʟᴇ Pᴏᴘ \n⬡│▸ 17 Fʀᴏᴢᴇɴ ᴄʀɪꜱᴛᴍᴀꜱꜱ \n⬡│▸ 18 3ᴅ Fᴏɪʟ Bᴀʟʟᴏɴꜱ \n⬡│▸ 19 3ᴅ Cᴏʟᴏᴜʀꜰᴜʟ Pᴀɪɴᴛ \n⬡│▸ 20 Aᴍᴇʀɪᴄᴀɴ Fʟᴀɢ 3ᴅ\n┬│\n│╰──────✧❁✧──────◆\n│   ▸ʀᴇᴘʟʏ ᴛʜᴇ ɴᴜᴍʙᴇʀ ʏᴏᴜ ᴡᴀɴᴛ\n└━━━━━━━━━━━━━━━━──⊷◆ ";
     const _0x39a514 = {
