@@ -16,7 +16,7 @@ const botToken = '891038791:AAHWB1dQd-vi0IbH2NjKYUk-hqQ8rQuzPD4'; // Remplacez p
 
 cmd({
   pattern: 'tgs',
-  react: '🤖',
+  react: '🤯',
   desc: 'Download and send stickers from a Telegram sticker pack',
   category: 'media',
   use: '.tgs <sticker_pack_link>',
