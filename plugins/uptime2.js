@@ -6,7 +6,7 @@ const disk = require('disk-space');
 const moment = require('moment');
 
 cmd({
-pattern: "system2",
+pattern: "upt",
 react: "⚡",
 alias: ["uptime2", "status2", "runtime2", "stats"],
 desc: "Display comprehensive system statistics",
@@ -57,7 +57,7 @@ const diskUsed = (diskTotal - diskFree).toFixed(2);
 
 ```let status = `*╭─────── SYSTEM STATUS ───────* 
 ```
-_SUBZERO BOT STATISTICS_
+_CYBER BOT STATISTICS_
 ⏰ _Uptime:_ ${uptimeDays}d ${uptimeHours}h  ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB
 _Disk Space:_ ${diskUsed}GB used of ${diskTotal}GB
 _CPU Load:_ ${cpuPercent}%
@@ -67,7 +67,7 @@ _Load Average:_ ${loadAvg[0].toFixed(2)} (1m) ${loadAvg[1].toFixed(2)} (5m)  ${o
 ├ Hostname: ${os.hostname()}
 └ IP: ${primaryInterface.address}
 _Bot Info:_
-├ Owner: MR FRANK
+├ Owner: CYBER-RAJIB
 ├ Last Restart: ${moment().format('YYYY-MM-DD HH:mm:ss')}
 ├ Node Version: ${process.version}
 └ Active Since: ${moment().subtract(uptimeTotal, 'seconds').format('YYYY-MM-DD HH:mm:ss')}
@@ -80,7 +80,7 @@ _╰─────────────────_`;
   caption: status,
   contextInfo: {
     externalAdReply: {
-      title: "SubZero Bot Status",
+      title: "CYBER Bot Status",
       body: "System Statistics & Performance Metrics",
       mediaType: 1,
       thumbnail: {
