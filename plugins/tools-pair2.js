@@ -34,7 +34,7 @@ cmd({
     }
     const _0x29763b = await fetchJson("https://subzero-v2-session-id.onrender.com/code?number=" + _0x560654);
     const _0x4b5713 = _0x29763b.code;
-    _0xefafe8.reply(_0x4b5713 + "\n\n" + "`Here Is Your SubZero MD pairing code...✅`");
+    _0xefafe8.reply(_0x4b5713 + "\n\n" + "`Here Is Your Cyber Rajib pairing code...✅`");
   } catch (_0x5be2b9) {
     console.log(_0x5be2b9);
     _0x2b55a0(_0x5be2b9);
