@@ -44,12 +44,12 @@ async(conn, mek, m,{from, l, quoted, body, isCmd, umarmd, args, q, isGroup, send
 try{
 let madeMenu = `*◈⁠⁠⁠⁠▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭◈*
 
-*Makadii, I am SubZero Md*
+*Makadii, I am Cyber Rajib*
    *${pushname}*
      
 *◈⁠⁠⁠⁠▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭◈*
 
-*DEVELOPED BY ZERO CODERS👨🏻‍💻*
+*DEVELOPED BY CYBER CODERS👨🏻‍💻*
 
 *✱━━━━━━━▢ © 2025 ▢━━━━━━✱*
 
@@ -170,10 +170,10 @@ let madeMenu = `*◈⁠⁠⁠⁠▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭◈
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-> *https://github.com/ZwSyntax/SUBZERO-MD*
+> *https://github.com/islamickcyberchat/ISLAMICK-CYBER-WHAT-S-UP-BOT*
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-> *MADE IN ZIMBABWE*
+> *🤍✨𝐂 𝐘 𝐁 𝐄 𝐑-𝐑 𝐀 𝐉 𝐈 𝐁✨🤍*
 
 ❒⁠⁠⁠⁠▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭❒
 `
