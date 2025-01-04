@@ -1,20 +1,8 @@
 /*╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺
-    ⭐ＰＲＯＪＥＣＴ ＮＡＭＥ:
-    ＳＵＢＺＥＲＯ ＷＨＡＴＳＡＰＰ ＭＤ ＢＯＴ
-    
-    ⭐ＤＥＶＥＬＯＰＥＲ
-     ＭＲ ＦＲＡＮＫ 
-     
-    ⭐ ＭＹ ＴＥＡＭ
-     ＸＥＲＯ ＣＯＤＥＲＳ
-     
-    ⭐ ＯＵＲ ＷＥＢＳＩＴＥ
-     https://github.com/ZwSyntax/SUBZERO-MD
+    ＰＲＯＪＥＣＴ ＮＡＭＥ:
 
-© ＴＲＹ ＤＥＣＲＹＰＴＩＮＧ ＩＦ ＹＯＵ ＣＡＮ⚠
-
-╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺*/
-
+ 🤍✨𝐂 𝐘 𝐁 𝐄 𝐑-𝐑 𝐀 𝐉 𝐈 𝐁✨🤍
+     ╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺*/ 
 
 
 
@@ -42,12 +30,12 @@ cmd({
 async (conn, mek, m, { from, quoted, reply }) => {
     try {
         // Define the settings message with the correct boolean checks
-        let envSettings = `╭━━━〔 *❄ SUBZERO-MD ❄* 〕━━━┈⊷
+        let envSettings = `╭━━━〔 *🤍✨𝐂𝐘𝐁𝐄𝐑-𝐑𝐀𝐉𝐈𝐁✨🤍* 〕━━━┈⊷
 ┃▸╭───────────
 ┃▸┃➢ *ENV SETTINGS*
 ┃▸└───────────···๏
 ╰────────────────┈⊷
-╭━━〔 *SUBZERO SETTINGS* 〕━━┈⊷
+╭━━〔 *CYBER SETTINGS* 〕━━┈⊷
 ┇๏ *Auto Read Status:* ${isEnabled(config.AUTO_READ_STATUS) ? "Enabled ✅" : "Disabled ❌"}
 ┇๏ *Auto Status Reply:* ${isEnabled(config.AUTO_STATUS_REPLY) ? "Enabled ✅" : "Disabled ❌"}
 ┇๏ *Auto Reply:* ${isEnabled(config.AUTO_REPLY) ? "Enabled ✅" : "Disabled ❌"}
@@ -64,13 +52,13 @@ async (conn, mek, m, { from, quoted, reply }) => {
 ┇๏ *Currently Status:* ${isEnabled(config.CURRENT_STATUS) ? "Enabled ✅" : "Disabled ❌"}
 ┇๏ *Read Message:* ${isEnabled(config.READ_MESSAGE) ? "Enabled ✅" : "Disabled ❌"}
 ╰━━━━━━━━━━━━──┈⊷
-> 𝐒𝐔𝐁𝐙𝐄𝐑𝐎 𝐕𝐄𝐑𝐒𝐈𝐎𝐍 𝐎𝐍𝐄 `;
+> 𝐂𝐘𝐁𝐄𝐑 𝐕𝐄𝐑𝐒𝐈𝐎𝐍 𝐎𝐍𝐄 `;
 
         // Send message with an image
         await conn.sendMessage(
             from,
             {
-                image: { url: 'https://i.ibb.co/rvRz3hc/mrfrankofc.jpg' }, // Image URL
+                image: { url: 'https://i.postimg.cc/HLYbbt1Y/ultra.jpg' }, // Image URL
                 caption: envSettings,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -78,7 +66,7 @@ async (conn, mek, m, { from, quoted, reply }) => {
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363304325601080@newsletter',
-                        newsletterName: "❄️ 𝐒𝐔𝐁𝐙𝐄𝐑𝐎 𝐌𝐃 ❄️",
+                        newsletterName: "🤍✨𝐂 𝐘 𝐁 𝐄 𝐑-𝐑 𝐀 𝐉 𝐈 𝐁✨🤍",
                         serverMessageId: 143
                     }
                 }
