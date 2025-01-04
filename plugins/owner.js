@@ -1,19 +1,8 @@
-/*???????????????????????????
-    ?£Ð£Ò£Ï£Ê£Å£Ã£Ô £Î£Á£Í£Å:
-    £Ó£Õ£Â£Ú£Å£Ò£Ï £×£È£Á£Ô£Ó£Á£Ð£Ð £Í£Ä £Â£Ï£Ô
-    
-    ?£Ä£Å£Ö£Å£Ì£Ï£Ð£Å£Ò
-     £Í£Ò £Æ£Ò£Á£Î£Ë 
-     
-    ? £Í£Ù £Ô£Å£Á£Í
-     £Ø£Å£Ò£Ï £Ã£Ï£Ä£Å£Ò£Ó
-     
-    ? £Ï£Õ£Ò £×£Å£Â£Ó£É£Ô£Å
-     https://github.com/ZwSyntax/SUBZERO-MD
+/*╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺
+    ＰＲＯＪＥＣＴ ＮＡＭＥ:
 
-? £Ô£Ò£Ù £Ä£Å£Ã£Ò£Ù£Ð£Ô£É£Î£Ç £É£Æ £Ù£Ï£Õ £Ã£Á£Î?
-
-????????????????????????????????*/
+ 🤍✨𝐂 𝐘 𝐁 𝐄 𝐑-𝐑 𝐀 𝐉 𝐈 𝐁✨🤍
+     ╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺*/ 
 
 
 
@@ -31,7 +20,7 @@ async (conn, mek, m, { from }) => {
     try {
         // Owner's contact info
         const ownerNumber = '+263719647303'; // Replace this with the actual owner number
-        const ownerName = '⟣ ᴍʀ ғʀᴀɴᴋ⟢'; // Replace this with the owner's name
+        const ownerName = '🤍✨𝐂 𝐘 𝐁 𝐄 𝐑-𝐑 𝐀 𝐉 𝐈 𝐁✨🤍'; // Replace this with the owner's name
         const organization = 'UD TEAM'; // Optional: replace with the owner's organization
 
         // Create a vCard (contact card) for the owner
@@ -54,7 +43,7 @@ async (conn, mek, m, { from }) => {
         await conn.sendMessage(from, {
             text: `This is the owner's contact: ${ownerName}`,
             contextInfo: {
-                mentionedJid: [ownerNumber.replace('+263719647303') + '+18062212660@s.whatsapp.net'], // Mention the owner
+                mentionedJid: [ownerNumber.replace('+8801859551262') + '+8801859551262@s.whatsapp.net'], // Mention the owner
                 quotedMessageId: sentVCard.key.id // Reference the vCard message
             }
         }, { quoted: mek });
