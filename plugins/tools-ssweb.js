@@ -1,5 +1,5 @@
 // Want My Code ?
-// Give Credits To Mr Frank
+// Give Credits CYBER-RAJUB
 //wa.me/18062212660
 
 const axios = require("axios");
@@ -61,7 +61,7 @@ cmd(_0x39ffcf, async (_0x5820ae, _0x1f69a1, _0x3680d6, {
     };
     const _0x5c238c = {
       image: _0x270eaa,//dont touch below u dont wanna regret
-      caption: "*`SUBZERO SCREENSHOT WEBSTITE`*\n\n> *© Gᴇɴᴇʀᴀᴛᴇᴅ Bʏ SᴜʙZᴇʀᴏ*"
+      caption: "*`CYBER-RAJIB SCREENSHOT WEBSTITE`*\n\n> *© Gᴇɴᴇʀᴀᴛᴇᴅ*"
     };
     const _0x5ab83d = {
       quoted: _0x1f69a1
@@ -98,4 +98,4 @@ function _0x4b3041(_0x56e45d) {
 }
 
 // Want My Code?
-// Give Credita Yahh, Mr Frank
+// Give Credita CYBER-RAJIB
