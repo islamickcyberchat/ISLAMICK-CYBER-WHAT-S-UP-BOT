@@ -1,4 +1,4 @@
-//SUBZERO PROPERTY
+//CYBER PROPERTY
 
 
 
@@ -43,7 +43,7 @@ cmd({
             .join('\n\n'); // Join multiple fonts with spacing
 
         // Reply with the formatted fonts and credit message
-        reply(`*SUBZERO MD FANCY FONTS:*\n\n${formattedFonts}\n\n> *Made By Mr Frank*`);
+        reply(`*CYBER-RAJIB FANCY FONTS:*\n\n${formattedFonts}\n\n> *Made By CYBER RAJIB*`);
     } catch (error) {
         // Log and display an error message if something goes wrong
         console.error(error);
