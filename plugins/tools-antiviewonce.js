@@ -88,6 +88,6 @@ cmd({
       });
     }
   } else {
-    return _0x597c0c("This is not a ViewOnce message");
+    return _0x597c0c("This is not a ViewOnce message 😫");
   }
 });
