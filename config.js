@@ -38,4 +38,4 @@ module.exports = {
     AUTO_STATUS__MSG: process.env.AUTO_STATUS__MSG || "`Status Seen By ✨🤍Islamick cyber chat bot 🕋✨ `",
     OMDB_API_KEY: process.env.OMDB_API_KEY || "76cb7f39", // omdbapi.com
 };
-//--------------MADE BY CYBER RAJIB 2025 Janu---------------->-
+//--------------MADE BY CYBER RAJIB 2025 Jan---------------->-
