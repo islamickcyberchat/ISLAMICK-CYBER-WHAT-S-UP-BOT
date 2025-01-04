@@ -19,7 +19,7 @@ cmd({
   'react': '🔢',
   'desc': "pairing",
   'category': 'download',
-  'use': ".pair +263719647303",
+  'use': ".pair +8801859551262",
   'filename': __filename
 }, async (_0x5b297c, _0x3a3e44, _0xefafe8, {
   from: _0x5aafb9,
