@@ -13,7 +13,7 @@ const {cmd , commands} = require('../command')
 const googleTTS = require('google-tts-api')
 
 cmd({
-    pattern: "trt",
+    pattern: "en",
     alias: ["translate"],
     desc: "🌍 Translate text between languages",
     react: "⚡",
