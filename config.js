@@ -35,7 +35,7 @@ module.exports = {
     OWNER_REACT: process.env.OWNER_REACT || "false",
     BOT_NAME: process.env.BOT_NAME || "『 𝐂 𝐘 𝐁 𝐄 𝐑 』",
     AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "true",
-    AUTO_STATUS__MSG: process.env.AUTO_STATUS__MSG || "`Status Seen By Islamick cyber chat bot 🕋✨ `",
+    AUTO_STATUS__MSG: process.env.AUTO_STATUS__MSG || "`Status Seen By ✨🤍Islamick cyber chat bot 🕋✨ `",
     OMDB_API_KEY: process.env.OMDB_API_KEY || "76cb7f39", // omdbapi.com
 };
 //--------------MADE BY CYBER RAJIB 2025 Janu---------------->-
