@@ -1,41 +1,41 @@
 const { cmd } = require("../command");
 
 cmd({
-    pattern: "subzeroinc",
-    desc: "All About The Bot & Dev",
+    pattern: "info",
+    desc: "All About The Bot admin info",
     category: "fun",
-    react: "🦄",
+    react: "😽",
     filename: __filename
 }, async (conn, mek, m, { reply }) => {
-    const familyList = `  *⟣────────────⟢*
-    *[ • Developer: Darrell M ]*
+    const familyList = `     *⟣────────────⟢*
+ *[ • Developer:RAJIB]*
  *⟣────────────•⟢*
               
       *⟣┈───────────────⟢*
             🗂️ *REPOSITORY*
-       https://github.com/mrfrank-ofc/SUBZERO-MD
+       https://github.com/islamickcyberchat/ISLAMICK-CYBER-WHAT-S-UP-BOT
       
       *⟣┈───────────────•*
             🔗 *PROJECT NAME*
-           SUBZERO-MD W.A BOT
+           𝐈𝐬𝐥𝐚𝐦𝐢𝐜𝐤 𝐂𝐲𝐛𝐞𝐫 𝐂𝐡𝐚𝐭
       
       *⟣┈───────────────•*
              👨‍💻 *DEVELOPER*
-     https://github.com/mrfrank-ofc
+     https://github.com/islamickcyberchat
        
       *⟣┈───────────────•*
              🧮 *RELEASE DATE*
-            15 December 2024 
+            1 January  2025
        
       *⟣┈───────────────•*
             📩 *SUPPORT GROUP* 
-      https://chat.whatsapp.com/InsR5qk3cBsG2781A6uxcO
+      https://chat.whatsapp.com/ILPujzXlPw34VIebncoVS1
     
       *⟣┈───────────────•*
-           🎀 *SUPPORT CHANNEL*
-      https://whatsapp.com/channel/0029VagQEmB002T7MWo3Sj1D
+           🎀 *SUPPORT FB* 🎀
+      https://www.facebook.com/cyberrajib
         
-        ◦🪄  Hit Me Here :wa.me/263719647303* 
+        ◦🪄  Hit Me Here :wa.me/+8801859551262* 
       *⟝┈───────────────⟞*
         *⟣────────────•⟢*
     `;
@@ -43,7 +43,7 @@ cmd({
     try {
         // Envoi de la réponse avec l'image et la liste de la famille
         await conn.sendMessage(m.chat, {
-            image: { url: "https://i.postimg.cc/FHN6KVzM/In-Shot-20241227-205053424.jpg" },
+            image: { url: "https://i.postimg.cc/HkG285Ln/CYBER.jpg" },
             caption: familyList.trim()
         }, { quoted: mek });
     } catch (error) {
