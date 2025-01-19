@@ -1,43 +1,251 @@
----------
-
-###  🤍✨𝐂 𝐘 𝐁 𝐄 𝐑-𝐑 𝐀 𝐉 𝐈 𝐁✨🤍
-
-❖ **`A WhatsApp Multi Device Bot To Take Your WhatsApp To Another Level !`** ❖
-
-----------
-## CLICK <a href="https://github.com/islamickcyberchat/ISLAMICK-CYBER-WHAT-S-UP-BOT/issues">HERE IF YOU ARE NEW TO BOTS</a>
-
-
-<img src='https://i.postimg.cc/hPQGnNWd/CYBER.jpg'/>
-
--------
-
- <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=cyan&center=true&vCenter=true&multiline=false&lines=`C Y B E R+R A J I B+W.P+BOT`" alt="">
-
-<br>
-
---------
-
 <p align="center">
-<a href="https://github.com/mrfrank-ofc/"><img title="Followers" src="https://img.shields.io/github/followers/mrfrank-ofc?color=blue&style=flat-square"></a>
-<a href="https://github.com/islamickcyberchat/ISLAMICK-CYBER-WHAT-S-UP-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/islamickcyber-chat/ISLAMICK-CYBER-WHAT-S-UP-BOT?color=blue&style=flat-square"></a>
-<a href="https://github.com/islamickcyberchat/ISLAMICK-CYBER-WHAT-S-UP-BOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/islamickcyber-chat/ISLAMICK-CYBER-WHAT-S-UP-BOT?color=blue&style=flat-square"></a>
-<a href="https://github.com/islamickcyberchat/ISLAMICK-CYBER-WHAT-S-UP-BOT/"><img title="Size" src="https://img.shields.io/github/repo-size/islamickcyber-chat/ISLAMICK-CYBER-WHAT-S-UP-BOT?style=flat-square&color=blue"></a>
-<a href="https://github.com/islamickcyberchat/ISLAMICK-CYBER-WHAT-S-UP-BOT/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+  <h1 align="center">❄️ SUBZERO-MD ❄️</h1>
+</p>
+
+  <p align="center">
+<a href="https://github.com/mrfrank-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/mrfrank-ofc?color=blue&style=flat-square"></a>
+<a href="https://github.com/mrfrank-ofc/SUBZERO-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mrfrank-ofc/SUBZERO-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/mrfrank-ofc/SUBZERO-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mrfrank-ofc/SUBZERO-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/mrfrank-ofc/SUBZERO-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/mrfrank-ofc/SUBZERO-MD?style=flat-square&color=green"></a>
+<a href="https://github.com/mrfrank-ofc/SUBZERO-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
 
------------
-<div align="center"><br> <img src="https://profile-counter.glitch.me/SILENT-SOBX-MD/count.svg" /><br>CYBER-RAJIB</div>
+> **`Current Bot Version ➜ 1.0.3`**
+---
 
-------------
+```
+Dont forget to fork 🍴 & star 🌟 repo😇
+```
+---
+
+<p align="center">
+  <a href="https://github.com/mrfrank-ofc">
+    <img src="http://readme-typing-svg.herokuapp.com?color=blue&center=true&vCenter=true&multiline=false&lines=SUBZERO-MD-+MultiDevice;Developed+by+Mr+Frank;Give+star+and+fork+this+Repo+bro+🌟" alt="mrfrankReadme">
+  </a>
+</p>
+
+--- 
+
+<a><img src='https://i.imgur.com/wQOgFCH.jpeg'/></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-### <br>   ❖ DEPLOY_WORKFLOWS ❖
+***
+
+<p align="center">
+  <a href="https://github.com/mrfrank-ofc"><img title="Developer" src="https://img.shields.io/badge/Author-Mr%20Frank-397604.svg?style=for-the-badge&logo=github" /></a>
+</p>
+
+<div align="center">
+  
+[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-FF00F8?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VagQEmB002T7MWo3Sj1D)
+</div>
+
+ <p align="center"><img src="https://profile-counter.glitch.me/{SUBZERO-MD}/count.svg" alt="mrfrank-ofc :: Visitor's Count" old_src="https://profile-counter.glitch.me/{mrfrank-ofc}/count.svg" /></p>
+
+
+<p align="center">
+<a href="https://github.com/mrfrank-ofc/SUBZERO-MD"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=darkpink"></a> &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=SUBZERO-MD&label=VIEWS&style=flat-square&color=blue" />
+</p>
+</p> 
+
+<p align="center">
+  <a href="https://github.com/mrfrank-ofc/SUBZERO-MD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v2.0-darkcyan.svg?style=for-the-badge&logo=appveyor" /></a>
+</p>
+
+
+***
+
+### 1. Fork This Repository
+
+Start by forking this repository to your own GitHub account. Click the button below to fork:
+
+  <a href="https://github.com/mrfrank-ofc/SUBZERO-MD/fork"><img title="SUBZERO-MD" src="https://img.shields.io/badge/FORK-SUBZERO-MDh?color=blue&style=for-the-badge&logo=stackshare"></a>
+  
+### 2. Get Session ID 
+
+You will need a session ID to run the SUBZERO-MD. Click the button below to obtain your session ID.if any error in loading site try vpn:
+
+> **1️⃣Pair Code (Session ID)**
+
+<a href='https://tinyurl.com/subzero-md-session-id' target="_blank">
+  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
+</a>
+<br> 
+
+> **2️⃣Pair Code (Session ID)**
+
+<a href='https://subzero-md-pair2.onrender.com' target="_blank">
+  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-darkpink?style=for-the-badge&logo=opencv&logoColor=black'/>
+</a>
+<br> 
+
+> **3️⃣Pair Code (Session ID)**
+
+<a href='https://subzeropq.onrender.com' target="_blank">
+  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-cyan?style=for-the-badge&logo=opencv&logoColor=black'/>
+</a>
+<br> 
+
+---
+
+<h2 align="center">SubZero Deployment Options</h2>
+
+---
+
+<h4 align="center">1. Heroku</h4>
+<p style="text-align: center; font-size: 1.2em;">
+
+
+<p align="center">
+<a href='https://dashboard.heroku.com/new?template=https://github.com/mrfrank-ofc/SUBZERO-MD/tree/main' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
+
+----------
+
+<h4 align="center">2. TalkDrove Free</h4>
+<p style="text-align: center; font-size: 1.2em;">
+  
+<p align="center">
+<a href='https://talkdrove.com/share-bot/66' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-TalkDrove ‎Deploy-6971FF?style=for-the-badge&logo=Github&logoColor=white'/< width=150 height=28/p></a>
+  
+<details>
+  
+<b><strong><summary align="center" style="color: Yello;">EASIEST METHOD</summary></strong></b>
+<p style="text-align: center; font-size: 1.2em;">
+ 
+
+<h3 align="center"> HOW TO DEPLOY ON TALKDROVE</h3>
+<h6 align-"center">
+Create Account Here:
+
+https://host.talkdrove.com/auth/signup?ref=9535F15A
+
+Then Login
+Claim 10 coins in wallet section
+Locate where to deploy your bot
+You will see a dashboard of bots listed 
+
+
+Click next , next
+Until you see SUBZERO MD
+Then click on it
+
+You will be asked to fill in some stuffs like your session Id , and other stuffs on how you want your bot to be ( bot settings ) , it's not hard I added examples
+
+
+Get session I'd here:
+
+https://tinyurl.com/subzero-md-session-id
+
+After you're done filling it
+Click deploy button 
+
+If you can't see any deploy button , switch the website to dark mode 
+
+It will show
+
+That's all bot connected
+
+`MR FRANK OFC`</h6>
+</details>
+
+--------------
+
+
+<h4 align="center">3. Koyeb</h4>
+<p style="text-align: center; font-size: 1.2em;">
+
+
+<p align="center">
+<a href='https://app.koyeb.com/services/deploy?type=git&repository=mrfrank-ofc/SUBZERO-MD&ports=3000&env[PREFIX]=.&env[SESSION_ID]=&env[ALWAYS_ONLINE]=false&env[MODE]=public&env[AUTO_STATUS_MSG]=Seen%20status%20by%20SUBZERO-MD&env[AUTO_STATUS_REPLY]=false&env[AUTO_STATUS_SEEN]=true&env[AUTO_TYPING]=false&env[ANTI_LINK]=true&env[AUTO_REACT]=false&env[READ_MESSAGE]=false' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-koyeb ‎ deploy-FF009D?style=for-the-badge&logo=koyeb&logoColor=white'/< width=150 height=28/p></a>
+
+-----
+<h4 align="center">4. Railway</h4>
+<p style="text-align: center; font-size: 1.2em;">
+
+<p align="center">
+<a href='https://railway.app/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-railway deploy-FF8700?style=for-the-badge&logo=railway&logoColor=white'/< width=150 height=28/p></a>
+
+-----
+
+<h4 align="center">5. Render</h4>
+<p style="text-align: center; font-size: 1.2em;">
+  
+<p align="center">
+<a href='https://dashboard.render.com/web/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Render deploy-black?style=for-the-badge&logo=render&logoColot=white'/< width=150 height=28/p></a>
+--------
+
+<h4 align="center">6. Hugging Face</h4>
+<p style="text-align: center; font-size: 1.2em;">
+  
+<p align="center">
+<a href='https://app.netlify.com/' target="_blank"><img alt='Netlify' src='https://img.shields.io/badge/-Netlify Deploy-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white'/< width=150 height=28/p></a> </a>
+
+<details>
+  
+<b><strong><summary align="center" style="color: Yello;">EASIEST METHOD 2</summary></strong></b>
+<p style="text-align: center; font-size: 1.2em;">
+ 
+
+<h3 align="center"> HOW TO DEPLOY ON HUGGING FACE</h3>
+<h6 align-"center">
+*❄️ Deploy SubZero On Hugging Face For Free !*
+
+`Specs :`
+- v2 CPU
+- 16GB RAM
+
+> `Steps to deploy`
+
+`Step 1`
+1. Go to hugginface.co/join and create an account and verify your email too.
+
+`Step 2`
+1. Go to https://huggingface.co/spaces/mrfrank-ofc/SUBZERO-MD
+
+2. Tap on *three dots* _(as shown in image)_
+
+3. Tap on *duplicate space* _(as shown in image)_
+
+`Step 3`
+1. Fill your details, e.g., Session ID, Bot Name, owner number etc...
+
+2. Tap on *duplicate space shown below*
+
+```After that wait 10 seconds & your have deployed it successfuly  for free 24/7```
+
+> CREDITS PIKABOTZ🎐
+
+*ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ꜰʀᴀɴᴋ ᴏꜰᴄ*</h6>
+
+</details>
+
+--------------
+
+
+<h4 align="center">7. Replit</h4>
+<p style="text-align: center; font-size: 1.2em;">
+
+<p align="center">
+<a href='https://replit.com/~' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Replit Deploy-1976D2?style=for-the-badge&logo=replit&logoColor=white'/< width=150 height=28/p></a> </a>
+
+ --------
+ <h4 align="center">8. Workflow</h4>
+<p style="text-align: center; font-size: 1.2em;">
+
+
+<details>
+
+<b><strong><summary align="center" style="color: Yello;">Deploy On Workflow</summary></strong></b>
+<p style="text-align: center; font-size: 1.2em;">
+ 
+<h8>Copy the workflow codes and then frok the repo edit config add session id then save and now click on repo action tag then click on start new workflow then paste workflow codes name them deploy and save the file</h8>
+<h3 align-"center"> Important</h3>
+<h6 align-"center">Attention! We do not take responsibility if your github account is suspended through this Deploy method, I advise you not to use this workflow deploy method in the latest github accounts, github accounts created a year or more ago have not received the risk of suspension so far, this works It will only be done for 6 hours, you need to update the code to reactivate it.</h6>
+
 ```
 name: Node.js CI
 
@@ -73,139 +281,66 @@ jobs:
     - name: Start application
       run: npm start
 ```
+</details> 
 
-[![FORK CYBER RAJIB](https://img.shields.io/badge/FORK%20-CYBER%20RAJIB%20V4-white)](https://github.com/islamickcyberchat/ISLAMICK-CYBER-WHAT-S-UP-BOT/fork)
-
-### <br>    ❖ SESSION_ID ❖
-
-
-`🚀 IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:+8801xxxxxx THEN YOU CAN GET YOUR SESSION_ID 🚀`
-
-----------
-## SESSION ONE
-<p align="center">
-<a href="https://subzero-session-id.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID:-black?style=for-the-badge&logo=render"></a>
-<p/>
-
- ## SESSION TWO
-<p align="center">
-<a href="https://subzero-md-session-id-732a5ca058f0.herokuapp.com"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID:-black?style=for-the-badge&logo=heroku"></a>
-<p/>
---------
+***
 
 
+
+
+## 🌐 WhatsApp Channel 
+
+Stay connected with the latest updates and community by joining our official WhatsApp group and channel. You can also contact the owner directly.
+
+[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VagQEmB002T7MWo3Sj1D)
+
+***
+
+<h2 align="left">⚠️ Reminder ⚠️</h2>
+<p style="text-align: center; font-size: 1.2em;">
+
+- **Disclaimer:** This bot is not affiliated with `WhatsApp Inc.`. Use it at your own risk.
+- Misusing the bot may result in your `WhatsApp` account being banned. Note that you can only unban your account once.
+- I am not responsible for any bans or misuse of the bot. Please keep this warning in mind before proceeding.
+
+---
+
+<h2 align="left">ℹ️ Notice</h2>
+<p style="text-align: center; font-size: 1.2em;">
+  Not For Sale - If any plugin's code is obfuscated, you do not have permission to edit it in any form. Please remember to give credit if you are using or re-uploading my plugins/files. Wishing you a wonderful day ahead!</p>
+  
+---
+
+<h2 align="center"> Project Owners </h2>
+
+---
+
+### Thank You Dear
+
+> DEVELOPER OF SUBZERO-MD 
+- [Mr Frank ](https://github.com/mrfrank-ofc)
+- Creater and Owner Of SUBZERO-MD
+
+> SUBZERO-MD Helper
+- [Frank](https://github.com/efkidgamerdev)
+- For helping in bot plugin files.
+---
+
+ <br>
+<h2 align="center"> ⚠️ Disclaimer ⚠️
+ </h2>
  
-🕋✨ `THIS BOT IS CREATED TO DOWNLOAD'S AND FIND VARIOUS TYPES THINGS QUICKLY **EXAMPLE** LOGO, PHOTO, STICKERS, VIDEOS, MOVIES, ADULT, AND MANY MORE FEATURES BY USING THIS BOT™ THIS BOT IS CREATED TO USING` 🌸 **[CYBER-RAJIB](https://github.com/islamickcyberchat/ISLAMICK-CYBER-WHAT-S-UP-BOT)**
+ ---
 
-------------------
+<h3 align="center"> Don't Copy Without Permission 
+</h3>
 
-### <br> ❖ FOR SUPPORT ❖
+<br>
 
-**`➩ HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME CYBER-RAJIB࿐➺`**
+```
+Thank you Pikachu, KHAN, SILENT SOBX, KERM & you supporters
+```
+-----
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
--------
-
-<p align="center">
-  <a href="https://wa.me/+8801859551262?text=*ʜɪɪ+CYBER-RAJIB+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ʀᴇᴘᴏ!!*" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
------------    
-
-`🚀 IF YOU WANT MORE ABOUT CYBER-RAJIBWHATSAPP BOT :-NEW UPDATED NEW CMDS SO JOIN OUR WHATSAPP CHANNEL FOR MORE INFORMATION CLICK THIS RED BUTTON 🔳 AND JOIN THE GROUP 🚀`
-
----------
-
-<a href="https://chat.whatsapp.com/ILPujzXlPw34VIebncoVS1"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ᴡʜᴀᴛsᴀᴘᴘ%20ᴄʜᴀɴɴᴇʟ-red" alt="🔰 ᴊᴏɪɴ ᴍʏ ᴡʜᴀᴛsᴀᴘᴘ ᴄʜᴀɴɴᴇʟ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
-
------------
-
-`🚀 IF YOU WANT MORE ABOUT CYBER-RAJIB WHATSAPP BOT :-NEW UPDATED NEW CMDS SO SUBSCRIBE OUR YOUTUBE CHANNEL FOR MORE INFORMATION CLICK THIS BLUE BUTTON 🔳 AND JOIN THE YOUTUBE CHANNEL 🚀`
-
-----------
-## CREATE TALDROVE ACCOUNT
-<a href="https://host.talkdrove.com/auth/signup?ref=9535F15A"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20HOST.TALKDROVE%20FREE%20ACCOUNT%20HERE-blue" alt="hosttaldrove" width="300"></a>
------------
-
-## DEPLOY ON TALKDROVE
-
-<a href="https://host.talkdrove.com/share-bot/66"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20HOST.TALKDROVE%20FREE%20SUBZERO%20DEPLOY-blue" alt="hosttaldrove DEPLOY" width="300"></a>
----------
-<a href="https://youtube.com/@islamickcyberchatbot?si=F1IIc1As0gu3ijqk"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ʏᴏᴜᴛᴜʙᴇ%20ᴄʜᴀɴɴᴇʟ-blue" alt="🔰 ᴊᴏɪɴ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
-
---------------
- 
-### <br>   ❖ DEPLOY_HEROKU ❖
-
-`🚀 IF YOU WANT TO DEPLOY CYBER-RAJIB BOT ON HEROKU SO FIRST GET YOUR SESSION_ID THEN CLICK THIS BLUE BUTTON [DEPLOY TO HEROKU] THEN YOU CAN ENJOY THIS BOT 🚀`
-
-------------
- 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/islamickcyberchat/ISLAMICK-CYBER-WHAT-S-UP-BOT)
-
-----------
-
-### <br>    ❖ DEPLOY_REPLIT ❖
-
-`🚀 IF U HAVE YOUR REPLIT ACCOUNT SO YOU CAN EASY DEPLOY CYBER-RAJIB ON REPLIT CLICK BLACK BUTTON [DEPLOY TO REPLIT] AND FIND CONFIG.JSON FILE THEN PASTE YOUR SESSION AND MONGODB KEY THEN RUN CODE AND ENJOY BOT 🚀`
-
--------------
-
-<p align="left"><a href="https://repl.it/https://github.com/islamickcyberchat/ISLAMICK-CYBER-WHAT-S-UP-BOT"> <img src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
-
---------------
-
-### <br>   ❖ DEPLOY_KOYEB ❖
-
-`🚀 IF YOU HAVE YOUR KOYEB ACCOUNT SO YOU CAN DEPLOY CYBER-RAJIB ON KOYEB WITH EASY SETUP NOTE:-MAYBE SOME PROBLEM TO DEPLOY ON KOYEB I ILL FIX SOON 🚀`
-
----------
-
-<a href='https://app.koyeb.com/services/deploy?type=git&repository=https://github.com/islamickcyberchat/ISLAMICK-CYBER-WHAT-S-UP-BOT&branch=main&name=CYBER-RAJIB&builder=dockerfile&env[OWNER_NUMBER]=263719647303%3B%E2%9D%A3%EF%B8%8F&env[MODE]=public&env[PREFIX]=&env[antidelete]=false&env[ANTI_LINK]=false&env[AUTO_STICKER]=false&env[AUTO_VOICE]=false&env[AUTO_REPLY]=false&env[STATUSLIKES]=true&env[ALIVE_MSG]=CYBER+IS+ONLINE&env[BOT_NAME]=CYBER-RAJIB&env[HEART_REACT]=true%F0%9F%8E%97%EF%B8%8F%E2%9D%A3%EF%B8%8F&env[ANTI_BAD]=false&env[AUTO_READ_STATUS]=false&env[AutoReaction]=false&env[SESSION_ID]=' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-KOYEB-blue?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
-
-------------
-
-### <br>  ❖ DEPLOY_RAILWAY ❖
-
-`🚀 IF YOU HAVE YOUR RAILWAY ACCOUNT SO YOU CAN DEPLOY SUBZERO-MD ON RAILWAY WITH EASY SETUP NOTE:-MAYBE SOME PROBLEM TO DEPLOY ON KOYEB I ILL FIX SOON 🚀`
-
---------
-
-<a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RAILWAY-h?color=black&style=for-the-badge&logo=railway'/></a></p>
-
----------------
-
-### <br> ❖ MORE DEPLOY METHOD ❖
-
---------
-### <br>   ❖ DEPLOY_GLITCH ❖
-
-<a href='https://glitch.com/signup' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/GLITCH-h?color=pink&style=for-the-badge&logo=glitch'/></a></p>
-
---------
-
-### <br>   ❖ DEPLOY_CODESPACE ❖
-
-<a href='https://github.com/codespaces/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/CODESPACE-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
-
---------
-
-### <br>   ❖ DEPLOY_RENDER ❖
-
-<a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RENDER-h?color=maroon&style=for-the-badge&logo=render'/></a></p>
-
------------
-`🚀 HOW TO DEPLOY CYBER-RAJIB ON WORKFLOWS FREE GITHUB WATCH VIDEO 🚀`
-
--------------
-
-<p align="center">
-   <a href="https://youtu.be/RhSiiBnhz8U?si=ief1wJ1_Afg-gB4x"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
-    </a>
-</p>
-
--------------
-
-Thanks For Using CYBER-RAJIB
-
-> Release Date : 1/1/2025 at 00.00
-Dᴏɴ’ᴛ Fᴏʀɢᴇᴛ ᴛᴏ ɢɪᴠᴇ ᴀ sᴛᴀʀ ⭐️ ᴀꜰᴛᴇʀ ꜰᴏʀᴋ
+------
