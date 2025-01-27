@@ -13,7 +13,7 @@ function convertToBool(text, fault = 'true') {
 
 //--------------------------CYBER-RAJIB--------------------------------------
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID || "SUBZERO-MD~LF5HVRYR#cYT4tluih7d5Hq0aBClZZmf6ywU4-g1bZYvQGW_1XAI",
+    SESSION_ID: process.env.SESSION_ID || "SUBZERO-MD~fv5xnKTI#LOjKR2z5mKd2KfHV0cUY7O_m92qSIa-aeeRObU5yJWg",
     CAPTION: process.env.CAPTION || "*©  Gᴇɴᴇʀᴀᴛᴇᴅ Bʏ ɪsʟᴀᴍɪᴄᴋ-ᴄʏʙᴇʀ-ᴄʜᴀᴛ*",
     ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "true",
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
